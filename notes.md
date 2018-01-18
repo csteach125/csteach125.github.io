@@ -18,6 +18,8 @@ This material will be updated on a weekly basis.
 
 ***
 
-##### Week 1 - 19th January 2018
+##### Week 1
 
-  * 
+  * [Wednesday, 17th January](/assets/docs/2018/comp125-week1-wed.pdf)
+  * extra notes
+    * [Git basics](/assets/docs/extras/git-basics.pdf)

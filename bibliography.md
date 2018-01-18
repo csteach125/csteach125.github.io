@@ -20,6 +20,6 @@ There is no specific textbook for this course.
 
 ***
 
-##### Week 1 - 19th January 2018
+##### Week 1
 
-  * 
+  * [MDN - What is JavaScript?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)

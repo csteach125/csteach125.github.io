@@ -103,6 +103,7 @@ and choose your favourite.
 
   * Introducing Atom - [YouTube](https://www.youtube.com/watch?v=Y7aEiVwBAdk)
   * Introducing Microsoft Edge - [YouTube](https://www.youtube.com/watch?v=iH1D31YHsgY)
+  * Learn Git in 20 minutes - [YouTube](https://youtu.be/Y9XZQO1n_7c?t=1m34s)
 
 <!--
   * Beginning Graphic Design

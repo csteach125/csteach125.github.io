@@ -21,6 +21,8 @@ summary: weekly assignment for COMP 125
 ##### Week 1 - 19th January 2018
 * Review this week's [notes and material](/notes), which includes the class notes and the extra document
   * [Git basics](/assets/docs/extras/git-basics.pdf)
+* Please review the following tutorial video on Git usage,
+  * Learn Git in 20 minutes - [YouTube](https://youtu.be/Y9XZQO1n_7c?t=1m34s)
 
 ##### Slack group
 I've also created a Slack group for this course, which is called **COMP 125 - Spring 2018 @ LUC**.

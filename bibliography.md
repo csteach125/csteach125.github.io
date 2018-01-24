@@ -20,6 +20,14 @@ There is no specific textbook for this course.
 
 ***
 
+##### Week 2
+
+  * W3Schools
+    * [arithmetic](https://www.w3schools.com/js/js_arithmetic.asp)
+    * [data types](https://www.w3schools.com/js/js_datatypes.asp)
+    * [operators](https://www.w3schools.com/js/js_operators.asp)
+    * [variables](https://www.w3schools.com/js/js_variables.asp)
+
 ##### Week 1
 
   * [MDN - What is JavaScript?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)

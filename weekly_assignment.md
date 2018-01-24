@@ -18,6 +18,11 @@ summary: weekly assignment for COMP 125
 
 ***
 
+##### Week 2 - 26th January 2018
+* Review this week's [notes and material](/notes), which includes the class notes
+  * review the code examples, and test with the Developer Tools in Google Chrome &c.
+* Please review the [bibliography](/bibliography) material for this week
+
 ##### Week 1 - 19th January 2018
 * Review this week's [notes and material](/notes), which includes the class notes and the extra document
   * [Git basics](/assets/docs/extras/git-basics.pdf)

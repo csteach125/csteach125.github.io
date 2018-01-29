@@ -20,6 +20,11 @@ There is no specific textbook for this course.
 
 ***
 
+##### Week 3
+
+  * [MDN Strings reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
+  * [W3Schools Strings](https://www.w3schools.com/js/js_strings.asp)
+
 ##### Week 2
 
   * W3Schools

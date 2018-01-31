@@ -31,11 +31,14 @@ If you have any suggestions for additions to this section of the site, please fe
 
 #### Documentation & Guides
 
+  * [MDN - Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+  * [MDN - JavaScript data types and data structure](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
   * [MDN - What is JavaScript?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
   * [W3 Schools - CSS](http://www.w3schools.com/css/default.asp)
   * [W3 Schools - HTML](http://www.w3schools.com/html/default.asp)
   * [W3 Schools - JS](http://www.w3schools.com/js/default.asp)
-    * [W3Schools Strings](https://www.w3schools.com/js/js_strings.asp)
+    * [W3Schools - Arrays](https://www.w3schools.com/js/js_arrays.asp)
+    * [W3Schools - Strings](https://www.w3schools.com/js/js_strings.asp)
 
 <!--
   * [jQuery API](https://api.jquery.com/)

@@ -22,6 +22,9 @@ There is no specific textbook for this course.
 
 ##### Week 3
 
+  * [MDN - JavaScript data types and data structure](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
+  * [W3Schools - Arrays](https://www.w3schools.com/js/js_arrays.asp)
+	* [MDN - Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
   * [MDN Strings reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
   * [W3Schools Strings](https://www.w3schools.com/js/js_strings.asp)
 

@@ -18,6 +18,12 @@ summary: weekly assignment for COMP 125
 
 ***
 
+##### Week 4
+* 5th February 2018
+  * review this week's [notes and material](/notes), which includes the class notes
+    * review the code examples, and test with the Developer Tools in Google Chrome &c.
+  * please review the [bibliography](/bibliography) material for this week
+
 ##### Week 3
 * 2nd February 2018
   * please ensure you've completed this week's assignment, as detailed at the start of today's class notes

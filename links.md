@@ -35,6 +35,7 @@ If you have any suggestions for additions to this section of the site, please fe
   * [MDN - JavaScript data types and data structure](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
   * [MDN - What is JavaScript?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
   * [MDN - Working with Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
+  * [W3C Documentation - Syntax](http://www.w3.org/TR/html-markup/syntax.html)
   * [W3 Schools - CSS](http://www.w3schools.com/css/default.asp)
   * [W3 Schools - HTML](http://www.w3schools.com/html/default.asp)
   * [W3 Schools - JS](http://www.w3schools.com/js/default.asp)
@@ -50,7 +51,6 @@ If you have any suggestions for additions to this section of the site, please fe
   * [redis.io](http://redis.io/)
   * [W3C - CSS](http://www.w3.org/Style/CSS/)
   * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
-  * [W3C Documentation - Syntax](http://www.w3.org/TR/html-markup/syntax.html)
   * [W3 Schools - HTML5 Semantic Elements](http://www.w3schools.com/html/html5_semantic_elements.asp)
 
 #### Frameworks & Libraries - CSS, JS... (a few examples)
@@ -110,17 +110,22 @@ and choose your favourite.
   * Introducing Atom - [YouTube](https://www.youtube.com/watch?v=Y7aEiVwBAdk)
   * Introducing Microsoft Edge - [YouTube](https://www.youtube.com/watch?v=iH1D31YHsgY)
   * Learn Git in 20 minutes - [YouTube](https://youtu.be/Y9XZQO1n_7c?t=1m34s)
+  * W3C Web standards for the future - [Vimeo](https://vimeo.com/110256895)
 
 <!--
   * Beginning Graphic Design
     * Colour - [YouTube](https://youtu.be/_2LLXnUdUIc)
     * Typography - [YouTube](https://youtu.be/sByzHoiYFX0)
-  * W3C Web standards for the future - [Vimeo](https://vimeo.com/110256895)
 -->
 
 #### Websites
 
-
+  * [The Unicode Consortium](http://www.unicode.org/)
+  * [Unicode Information](http://www.alanwood.net/unicode/)
+    * [Unicode examples](http://www.alanwood.net/unicode/unicode_samples.html)
+  * W3C
+    * [App Foundations](http://www.w3.org/appfoundations/)
+    * [Standards](http://www.w3.org/standards/)
   * [W3 Schools](http://www.w3schools.com/)
     * [HTML Colour Picker](http://www.w3schools.com/colors/colors_picker.asp)
 
@@ -131,12 +136,6 @@ and choose your favourite.
   * Google - [Material Design](http://www.google.com/design/spec/material-design/introduction.html)
   * Microsoft - [Guidelines for Windows Runtime apps](http://msdn.microsoft.com/library/windows/apps/hh465424.aspx)
   * [Perishable Press - Barebones Web Templates](https://perishablepress.com/bare-bones-htmlxhtml-document-templates/)
-  * [The Unicode Consortium](http://www.unicode.org/)
-  * [Unicode Information](http://www.alanwood.net/unicode/)
-    * [Unicode examples](http://www.alanwood.net/unicode/unicode_samples.html)
-  * W3C
-    * [App Foundations](http://www.w3.org/appfoundations/)
-    * [Standards](http://www.w3.org/standards/)
 
 #### Extras
 

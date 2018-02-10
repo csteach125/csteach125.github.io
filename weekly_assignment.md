@@ -19,12 +19,14 @@ summary: weekly assignment for COMP 125
 ***
 
 ##### Week 4
-* 7th February 2018
+* 7th & 9th February 2018
   * please ensure you've completed this week's assignments
     * assignment 1 - detailed on page 6 of Monday's class notes
-    * assignment 2 - detailed on page 4 of today's class notes
+    * assignment 2 - detailed on page 4 of Wednesday's class notes
   * send the URL for each PEN of this week's assignment as a private message to the course's TA, Catherine, on Slack
   * each assignment is due by Monday 12th February @ 2.30pm
+  * please review this week's source code examples, which are available on the course's GitHub account,
+    * [Source - DOM and HTML](https://github.com/csteach125/source)
 * 5th February 2018
   * review this week's [notes and material](/notes), which includes the class notes
     * review the code examples, and test with the Developer Tools in Google Chrome &c.

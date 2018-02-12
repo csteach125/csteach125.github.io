@@ -20,6 +20,15 @@ There is no specific textbook for this course.
 
 ***
 
+##### Week 5
+
+  * W3Schools HTML
+    * [<body>](https://www.w3schools.com/tags/tag_body.asp)
+    * [images](https://www.w3schools.com/html/html_images.asp)
+    * [links](https://www.w3schools.com/html/html_links.asp)
+    * [lists](https://www.w3schools.com/html/html_lists.asp)
+    * [tables](https://www.w3schools.com/html/html_tables.asp)
+
 ##### Week 4
 
   * Jaffe, Jim., *Application Foundations For The Open Web Platform*. W3C. 10.14.2014. [http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/](http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/)

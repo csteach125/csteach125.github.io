@@ -18,6 +18,16 @@ summary: weekly assignment for COMP 125
 
 ***
 
+##### Week 5
+* 12th February
+  * review this week's [notes and material](/notes), which includes the class notes
+    * review the code examples in the class notes, and test with CodePen &c.
+  * please review the [bibliography](/bibliography) material for this week
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 ##### Week 4
 * 7th & 9th February 2018
   * please ensure you've completed this week's assignments

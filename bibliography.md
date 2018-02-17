@@ -24,9 +24,12 @@ There is no specific textbook for this course.
 
   * W3Schools HTML
     * [<body>](https://www.w3schools.com/tags/tag_body.asp)
+    * [Form Attributes](https://www.w3schools.com/html/html_form_attributes.asp)
+    * [Form Elements](https://www.w3schools.com/html/html_form_elements.asp)
     * [images](https://www.w3schools.com/html/html_images.asp)
     * [links](https://www.w3schools.com/html/html_links.asp)
     * [lists](https://www.w3schools.com/html/html_lists.asp)
+    * [Math object](https://www.w3schools.com/js/js_math.asp)
     * [tables](https://www.w3schools.com/html/html_tables.asp)
 
 ##### Week 4

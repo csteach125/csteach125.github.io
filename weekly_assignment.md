@@ -19,6 +19,10 @@ summary: weekly assignment for COMP 125
 ***
 
 ##### Week 5
+* 16th February 2018
+  * review today's [notes and material](/notes), which includes the class notes
+  * review the code example pushed to the course's GitHub account,
+    * [source - week 5](https://github.com/csteach125/source/tree/master/games/week5)
 * 14th February 2018
   * review today's [notes and material](/notes), which includes the class notes
     * review the code examples in the class notes, and test with CodePen &c.

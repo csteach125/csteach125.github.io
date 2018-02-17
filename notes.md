@@ -20,6 +20,7 @@ This material will be updated on a weekly basis.
 
 ##### Week 5
 
+  * [Friday, 16th February](/assets/docs/2018/comp125-week5-fri.pdf)
   * [Wednesday, 14th February](/assets/docs/2018/comp125-week5-wed.pdf)
   * [Monday, 12th February](/assets/docs/2018/comp125-week5-mon.pdf)
 

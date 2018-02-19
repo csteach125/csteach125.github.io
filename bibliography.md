@@ -20,6 +20,10 @@ There is no specific textbook for this course.
 
 ***
 
+##### Week 6
+
+  * N/A
+
 ##### Week 5
 
   * W3Schools HTML

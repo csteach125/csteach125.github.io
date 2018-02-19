@@ -1,5 +1,5 @@
 ---
-title: Week 5 course update
+title: Week 6 course update
 author: ancientlives
 layout: post-vertical
 
@@ -9,13 +9,13 @@ categories:
 tags: general news
 year: 2018
 month: 02
-day: 16
+day: 19
 published: true
 summary: site and course material updated
 menu: new-semester
 ---
 
-The course website has now been updated for today's class, Friday 16th February.
+The course website has now been updated for today's class, Monday 19th February.
 
 Updates include the following,
 

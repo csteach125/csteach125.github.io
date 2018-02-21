@@ -42,9 +42,12 @@ If you have any suggestions for additions to this section of the site, please fe
   * [W3 Schools - HTML DOM](https://www.w3schools.com/jsref/dom_obj_attributes.asp)
   * [W3 Schools - HTML5 Semantic Elements](http://www.w3schools.com/html/html5_semantic_elements.asp)
   * [W3 Schools - JS](http://www.w3schools.com/js/default.asp)
-    * [W3Schools - Arrays](https://www.w3schools.com/js/js_arrays.asp)
-    * [W3Schools - Objects and Properties](https://www.w3schools.com/js/js_properties.asp)
-    * [W3Schools - Strings](https://www.w3schools.com/js/js_strings.asp)
+    * [Arrays](https://www.w3schools.com/js/js_arrays.asp)
+    * [conditionals](https://www.w3schools.com/js/js_if_else.asp)
+    * [For loop](https://www.w3schools.com/js/js_loop_for.asp)
+    * [functions](https://www.w3schools.com/js/js_functions.asp)
+    * [Objects and Properties](https://www.w3schools.com/js/js_properties.asp)
+    * [Strings](https://www.w3schools.com/js/js_strings.asp)
 
 <!--
   * [jQuery API](https://api.jquery.com/)

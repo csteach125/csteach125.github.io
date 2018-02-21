@@ -22,7 +22,10 @@ There is no specific textbook for this course.
 
 ##### Week 6
 
-  * N/A
+  * W3Schools
+    * [JS - conditionals](https://www.w3schools.com/js/js_if_else.asp)
+    * [JS - For loop](https://www.w3schools.com/js/js_loop_for.asp)
+    * [JS - functions](https://www.w3schools.com/js/js_functions.asp)
 
 ##### Week 5
 

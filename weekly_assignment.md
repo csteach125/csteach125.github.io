@@ -19,6 +19,12 @@ summary: weekly assignment for COMP 125
 ***
 
 ##### Week 6
+* 23rd February 2018
+  * review today's [notes and material](/notes), which includes the class notes
+  * please ensure you've completed this week's assignment
+    * detailed on page 2 of today's class notes
+  * send completed files for this week's assignment as a private message to the course's TA, Catherine, on Slack
+  * assignment is due by Wednesday 28th February @ 2.30pm
 * 21st February 2018
   * review today's [notes and material](/notes), which includes the class notes
   * review the latest code examples pushed to the course's GitHub account,

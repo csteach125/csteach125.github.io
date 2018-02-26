@@ -18,6 +18,16 @@ summary: weekly assignment for COMP 125
 
 ***
 
+##### Week 7
+* 26th February 2018
+  * review today's [notes and material](/notes), which includes the class notes
+  * continue working on the current assignment
+    * further details may be found on page 2 of Week 6 - Friday's class notes
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 ##### Week 6
 * 23rd February 2018
   * review today's [notes and material](/notes), which includes the class notes
@@ -34,6 +44,10 @@ summary: weekly assignment for COMP 125
   * review today's [notes and material](/notes), which includes the class notes
   * review the code example pushed to the course's GitHub account,
     * [source - week 5](https://github.com/csteach125/source/tree/master/games/week5)
+
+Any questions, please let me know.
+
+Enjoy your week.
 
 ##### Week 5
 * 16th February 2018

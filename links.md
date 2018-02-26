@@ -95,13 +95,13 @@ and choose your favourite.
     * [Pro Git](http://git-scm.com/book/en/v2)
   * [HTML5 Audio formats](http://textopia.org/androidsoundformats.html)
   * [HTML5 Test](http://html5test.com/)
+  * [JSLint - JavaScript Validator](http://jslint.com/)
 
 <!--
   * [CSS Lint](http://csslint.net/)
   * [Chocolatey for Windows](https://chocolatey.org/)
   * [Firebug](http://getfirebug.com/)
   * [Homebrew - the missing package manager for OS X](http://brew.sh/)
-  * [JSLint - JavaScript Validator](http://jslint.com/)
   * [JSONLint - JSON Validator](http://jsonlint.com/)
 
 #### Various

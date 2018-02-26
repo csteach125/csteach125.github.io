@@ -20,12 +20,20 @@ There is no specific textbook for this course.
 
 ***
 
+##### Week 7
+
+  * W3Schools - HTML5
+    * [headings](https://www.w3schools.com/html/html_headings.asp)
+  * W3Schools - JS
+    * [functions](https://www.w3schools.com/js/js_functions.asp)
+
 ##### Week 6
 
-  * W3Schools
-    * [JS - conditionals](https://www.w3schools.com/js/js_if_else.asp)
-    * [JS - For loop](https://www.w3schools.com/js/js_loop_for.asp)
-    * [JS - functions](https://www.w3schools.com/js/js_functions.asp)
+  * W3Schools - JS
+    * [conditionals](https://www.w3schools.com/js/js_if_else.asp)
+    * [For loop](https://www.w3schools.com/js/js_loop_for.asp)
+    * [functions](https://www.w3schools.com/js/js_functions.asp)
+    * [Math object](https://www.w3schools.com/js/js_math.asp)
 
 ##### Week 5
 
@@ -36,7 +44,6 @@ There is no specific textbook for this course.
     * [images](https://www.w3schools.com/html/html_images.asp)
     * [links](https://www.w3schools.com/html/html_links.asp)
     * [lists](https://www.w3schools.com/html/html_lists.asp)
-    * [Math object](https://www.w3schools.com/js/js_math.asp)
     * [tables](https://www.w3schools.com/html/html_tables.asp)
 
 ##### Week 4

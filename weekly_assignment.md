@@ -19,6 +19,10 @@ summary: weekly assignment for COMP 125
 ***
 
 ##### Week 7
+* 28th February 2018
+  * review today's [notes and material](/notes), which includes the class notes
+  * please review today's source code examples,
+    * [source - HTML tables](https://github.com/csteach125/source/tree/master/html/tables)
 * 26th February 2018
   * review today's [notes and material](/notes), which includes the class notes
   * continue working on the current assignment

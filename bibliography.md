@@ -24,6 +24,7 @@ There is no specific textbook for this course.
 
   * W3Schools - HTML5
     * [headings](https://www.w3schools.com/html/html_headings.asp)
+    * [tables](https://www.w3schools.com/html/html_tables.asp)
   * W3Schools - JS
     * [functions](https://www.w3schools.com/js/js_functions.asp)
 

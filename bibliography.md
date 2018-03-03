@@ -27,6 +27,7 @@ There is no specific textbook for this course.
     * [tables](https://www.w3schools.com/html/html_tables.asp)
   * W3Schools - JS
     * [functions](https://www.w3schools.com/js/js_functions.asp)
+    * [Math Object](https://www.w3schools.com/js/js_math.asp)
 
 ##### Week 6
 

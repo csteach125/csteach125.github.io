@@ -46,6 +46,7 @@ If you have any suggestions for additions to this section of the site, please fe
     * [conditionals](https://www.w3schools.com/js/js_if_else.asp)
     * [For loop](https://www.w3schools.com/js/js_loop_for.asp)
     * [functions](https://www.w3schools.com/js/js_functions.asp)
+    * [Math Object](https://www.w3schools.com/js/js_math.asp)
     * [Objects and Properties](https://www.w3schools.com/js/js_properties.asp)
     * [Strings](https://www.w3schools.com/js/js_strings.asp)
 

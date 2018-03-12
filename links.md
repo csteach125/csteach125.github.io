@@ -31,10 +31,13 @@ If you have any suggestions for additions to this section of the site, please fe
 
 #### Documentation & Guides
 
-  * [MDN - Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+  * [MDN - JavaScript Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+  * MDN - CSS
+    * [CSS documentation](https://developer.mozilla.org/en-US/docs/Web/CSS)
   * [MDN - JavaScript data types and data structure](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
   * [MDN - What is JavaScript?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
   * [MDN - Working with Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
+  * [W3C Documentation - CSS](http://www.w3.org/Style/CSS/)
   * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
   * [W3C Documentation - Syntax](http://www.w3.org/TR/html-markup/syntax.html)
   * [W3 Schools - CSS](http://www.w3schools.com/css/default.asp)
@@ -56,7 +59,6 @@ If you have any suggestions for additions to this section of the site, please fe
   * [Node.js home](https://nodejs.org/en/)
   * [React - API Reference](https://facebook.github.io/react/docs/top-level-api.html)
   * [redis.io](http://redis.io/)
-  * [W3C - CSS](http://www.w3.org/Style/CSS/)
 
 #### Frameworks & Libraries - CSS, JS... (a few examples)
 
@@ -92,6 +94,7 @@ and choose your favourite.
 
 #### Useful Tools & Reference
 
+  * [CSS Lint](http://csslint.net/)
   * [Git](http://git-scm.com/)
     * [Pro Git](http://git-scm.com/book/en/v2)
   * [HTML5 Audio formats](http://textopia.org/androidsoundformats.html)
@@ -99,7 +102,6 @@ and choose your favourite.
   * [JSLint - JavaScript Validator](http://jslint.com/)
 
 <!--
-  * [CSS Lint](http://csslint.net/)
   * [Chocolatey for Windows](https://chocolatey.org/)
   * [Firebug](http://getfirebug.com/)
   * [Homebrew - the missing package manager for OS X](http://brew.sh/)
@@ -112,16 +114,13 @@ and choose your favourite.
 
 #### Videos
 
+  * Beginning Graphic Design
+    * Colour - [YouTube](https://youtu.be/_2LLXnUdUIc)
+    * Typography - [YouTube](https://youtu.be/sByzHoiYFX0)
   * Introducing Atom - [YouTube](https://www.youtube.com/watch?v=Y7aEiVwBAdk)
   * Introducing Microsoft Edge - [YouTube](https://www.youtube.com/watch?v=iH1D31YHsgY)
   * Learn Git in 20 minutes - [YouTube](https://youtu.be/Y9XZQO1n_7c?t=1m34s)
   * W3C Web standards for the future - [Vimeo](https://vimeo.com/110256895)
-
-<!--
-  * Beginning Graphic Design
-    * Colour - [YouTube](https://youtu.be/_2LLXnUdUIc)
-    * Typography - [YouTube](https://youtu.be/sByzHoiYFX0)
--->
 
 #### Websites
 

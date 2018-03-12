@@ -18,6 +18,10 @@ This material will be updated on a weekly basis.
 
 ***
 
+##### Week 9
+
+  * [Monday, 12th March](/assets/docs/2018/comp125-week9-mon.pdf)
+
 ##### Week 7
 
   * [Friday, 2nd March](/assets/docs/2018/comp125-week7-fri.pdf)

@@ -72,7 +72,10 @@ If you have any questions on the following assessments, please [contact](/contac
 #### Grading
 
 Grades will be issued for appropriate weekly or section tasks, where applicable, and for each of the core assessments listed above.
+
 A composite grade will then be available at the end of the semester for the overall class.
+
+**n.b.** general class attendance is monitored, and it will be considered towards the final grade.
 
 Grades will use the following scale,
 

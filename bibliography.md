@@ -20,6 +20,12 @@ There is no specific textbook for this course.
 
 ***
 
+##### Week 9
+  * MDN - CSS
+    * [CSS documentation](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  * W3Schools - CSS
+    * [CSS tutorial](https://www.w3schools.com/css/default.asp)
+
 ##### Week 7
 
   * W3Schools - HTML5

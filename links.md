@@ -41,6 +41,7 @@ If you have any suggestions for additions to this section of the site, please fe
   * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
   * [W3C Documentation - Syntax](http://www.w3.org/TR/html-markup/syntax.html)
   * [W3 Schools - CSS](http://www.w3schools.com/css/default.asp)
+    * [CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
   * [W3 Schools - HTML](http://www.w3schools.com/html/default.asp)
   * [W3 Schools - HTML DOM](https://www.w3schools.com/jsref/dom_obj_attributes.asp)
   * [W3 Schools - HTML5 Semantic Elements](http://www.w3schools.com/html/html5_semantic_elements.asp)

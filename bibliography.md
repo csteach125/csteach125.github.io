@@ -25,6 +25,7 @@ There is no specific textbook for this course.
     * [CSS documentation](https://developer.mozilla.org/en-US/docs/Web/CSS)
   * W3Schools - CSS
     * [CSS tutorial](https://www.w3schools.com/css/default.asp)
+    * [CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
 
 ##### Week 7
 

@@ -22,6 +22,8 @@ summary: weekly assignment for COMP 125
 * 14th March 2018
   * review this week's [notes and material](/notes), which includes the class notes
   * please review the [bibliography](/bibliography) material for this week
+  * please review today's source code examples,
+    * [source - css - css box model](https://github.com/csteach125/source/tree/master/css/css-box-model)
 * 12th March 2018
   * review this week's [notes and material](/notes), which includes the class notes
   * please review the [bibliography](/bibliography) material for this week

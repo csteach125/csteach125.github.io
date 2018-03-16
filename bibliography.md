@@ -23,9 +23,11 @@ There is no specific textbook for this course.
 ##### Week 9
   * MDN - CSS
     * [CSS documentation](https://developer.mozilla.org/en-US/docs/Web/CSS)
+    * [CSS Selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
   * W3Schools - CSS
     * [CSS tutorial](https://www.w3schools.com/css/default.asp)
     * [CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
+    * [CSS - Selectors Reference](https://www.w3schools.com/cssref/css_selectors.asp)
 
 ##### Week 7
 

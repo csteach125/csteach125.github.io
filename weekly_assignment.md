@@ -19,6 +19,11 @@ summary: weekly assignment for COMP 125
 ***
 
 ##### Week 9
+* 16th March 2018
+  * review this week's [notes and material](/notes), which includes the class notes
+  * please review the [bibliography](/bibliography) material for this week
+  * please review today's source code examples,
+    * [source - css](https://github.com/csteach125/source/tree/master/css)
 * 14th March 2018
   * review this week's [notes and material](/notes), which includes the class notes
   * please review the [bibliography](/bibliography) material for this week

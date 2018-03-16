@@ -34,6 +34,7 @@ If you have any suggestions for additions to this section of the site, please fe
   * [MDN - JavaScript Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
   * MDN - CSS
     * [CSS documentation](https://developer.mozilla.org/en-US/docs/Web/CSS)
+    * [CSS Selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
   * [MDN - JavaScript data types and data structure](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
   * [MDN - What is JavaScript?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
   * [MDN - Working with Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
@@ -42,6 +43,8 @@ If you have any suggestions for additions to this section of the site, please fe
   * [W3C Documentation - Syntax](http://www.w3.org/TR/html-markup/syntax.html)
   * [W3 Schools - CSS](http://www.w3schools.com/css/default.asp)
     * [CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
+    * [CSS - Selectors Reference](https://www.w3schools.com/cssref/css_selectors.asp)
+    * [CSS tutorial](https://www.w3schools.com/css/default.asp)
   * [W3 Schools - HTML](http://www.w3schools.com/html/default.asp)
   * [W3 Schools - HTML DOM](https://www.w3schools.com/jsref/dom_obj_attributes.asp)
   * [W3 Schools - HTML5 Semantic Elements](http://www.w3schools.com/html/html5_semantic_elements.asp)

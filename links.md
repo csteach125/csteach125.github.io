@@ -22,12 +22,9 @@ If you have any suggestions for additions to this section of the site, please fe
 
 ***
 
-<!--
 #### Articles & Papers
 
-  *
   * Meyer, Eric - *Reset CSS*. meyerweb.com.  [http://meyerweb.com/eric/tools/css/reset/](http://meyerweb.com/eric/tools/css/reset/)
--->
 
 #### Documentation & Guides
 
@@ -58,11 +55,6 @@ If you have any suggestions for additions to this section of the site, please fe
     * [Strings](https://www.w3schools.com/js/js_strings.asp)
 
 <!--
-  * [jQuery API](https://api.jquery.com/)
-  * [JSON](http://www.json.org/)
-  * [Node.js home](https://nodejs.org/en/)
-  * [React - API Reference](https://facebook.github.io/react/docs/top-level-api.html)
-  * [redis.io](http://redis.io/)
 
 #### Frameworks & Libraries - CSS, JS... (a few examples)
 
@@ -110,10 +102,6 @@ and choose your favourite.
   * [Firebug](http://getfirebug.com/)
   * [Homebrew - the missing package manager for OS X](http://brew.sh/)
   * [JSONLint - JSON Validator](http://jsonlint.com/)
-
-#### Various
-
-  *
 -->
 
 #### Videos

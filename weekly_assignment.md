@@ -19,6 +19,9 @@ summary: weekly assignment for COMP 125
 ***
 
 ##### Week 10
+* 21st March 2018
+  * review this week's [notes and material](/notes), which includes the class notes
+  * please review the [bibliography](/bibliography) material for this week
 * 19th March 2018
   * review this week's [notes and material](/notes), which includes the class notes
   * please review the [bibliography](/bibliography) material for this week

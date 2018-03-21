@@ -26,6 +26,8 @@ There is no specific textbook for this course.
     * [fonts](https://developer.mozilla.org/en-US/docs/Web/CSS/font)
   * W3Schools - CSS
     * [fonts](https://www.w3schools.com/css/css_font.asp)
+    * [web fonts](https://www.w3schools.com/css/css3_fonts.asp)
+  * [W3Schools - HTML5 Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
 
 ##### Week 9
   * MDN - CSS

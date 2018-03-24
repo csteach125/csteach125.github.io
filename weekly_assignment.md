@@ -19,6 +19,19 @@ summary: weekly assignment for COMP 125
 ***
 
 ##### Week 10
+* 23rd March 2018
+  * review this week's [notes and material](/notes), which includes the class notes
+  * please review the [bibliography](/bibliography) material for this week
+  * please continue to develop this week's coding assignment
+    * further details are listed on page 2 of Monday's course notes
+    * assignment is due by Monday 26th February @ 2.30pm
+  * please prepare for a quiz scheduled for in-class on Wednesday 28th March 2018
+    * quiz will include material from the course, class, and extra notes for weeks 1 to 10 inclusive
+    * quiz will be approximately 45 minutes in length
+    * questions will be multiple choice
+    * please bring your laptop or other internet connected device to class
+    * this quiz uses an online Google Form
+      * **n.b.** you'll need a Google account to register for the quiz
 * 21st March 2018
   * review this week's [notes and material](/notes), which includes the class notes
   * please review the [bibliography](/bibliography) material for this week

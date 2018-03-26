@@ -20,6 +20,11 @@ There is no specific textbook for this course.
 
 ***
 
+##### Week 11
+  * W3Schools - HTML5
+    * [media elements](https://www.w3schools.com/html/html_media.asp)
+    * [canvas element](https://www.w3schools.com/html/html5_canvas.asp)
+
 ##### Week 10
   * MDN - CSS
     * [cascade and inheritance](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Cascade_and_inheritance)

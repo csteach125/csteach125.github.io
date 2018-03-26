@@ -38,6 +38,7 @@ If you have any suggestions for additions to this section of the site, please fe
   * [MDN - What is JavaScript?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
   * [MDN - Working with Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
   * [W3C Documentation - CSS](http://www.w3.org/Style/CSS/)
+  * [W3C Documentation - CSS Flexible Box Layout Module 1](https://drafts.csswg.org/css-flexbox/)
   * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
   * [W3C Documentation - Syntax](http://www.w3.org/TR/html-markup/syntax.html)
   * [W3 Schools - CSS](http://www.w3schools.com/css/default.asp)
@@ -48,6 +49,9 @@ If you have any suggestions for additions to this section of the site, please fe
   * [W3 Schools - HTML](http://www.w3schools.com/html/default.asp)
     * [HTML DOM](https://www.w3schools.com/jsref/dom_obj_attributes.asp)
     * [HTML5 Semantic Elements](http://www.w3schools.com/html/html5_semantic_elements.asp)
+  * W3Schools - HTML5
+    * [media elements](https://www.w3schools.com/html/html_media.asp)
+    * [canvas element](https://www.w3schools.com/html/html5_canvas.asp)
   * [W3 Schools - JS](http://www.w3schools.com/js/default.asp)
     * [Arrays](https://www.w3schools.com/js/js_arrays.asp)
     * [conditionals](https://www.w3schools.com/js/js_if_else.asp)

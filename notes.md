@@ -20,7 +20,8 @@ This material will be updated on a weekly basis.
 
 ##### Week 11
 
-  * [Monday, 26th March](/assets/docs/2018/comp125-week11-mon.pdf) 
+  * N/A - course quiz
+  * [Monday, 26th March](/assets/docs/2018/comp125-week11-mon.pdf)
 
 ##### Week 10
 

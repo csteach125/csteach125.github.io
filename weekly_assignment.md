@@ -19,6 +19,8 @@ summary: weekly assignment for COMP 125
 ***
 
 ##### Week 11
+* 28th March 2018
+  * N/A - course quiz
 * 26th March 2018
   * review this week's [notes and material](/notes), which includes the class notes
   * please review the [bibliography](/bibliography) material for this week

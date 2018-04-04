@@ -18,6 +18,16 @@ summary: weekly assignment for COMP 125
 
 ***
 
+<!--
+##### Week 12
+* 4th April 2018
+  * review this week's [notes and material](/notes), which includes the class notes
+  * please review the [bibliography](/bibliography) material for this week
+  * please begin to organise your project group for the final assessment
+    * 2 persons per group
+    * further details on the [coursework](https://csteach125.github.io/coursework/#assessment2) page
+-->
+
 ##### Week 11
 * 28th March 2018
   * N/A - course quiz

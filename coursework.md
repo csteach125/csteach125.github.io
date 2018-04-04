@@ -33,7 +33,7 @@ If you have any questions on the following assessments, please [contact](/contac
 
 <a id="assessment1"></a>
 
-##### 1. quizzes or exercises at the end of each course section (60%)
+##### 1. quizzes or exercises at the end of each course section (70%)
 
 * course quizzes
   * average time ~30 minutes
@@ -43,12 +43,11 @@ If you have any questions on the following assessments, please [contact](/contac
   * test course knowledge at each stage
 * extras
   * code and application reviews
-  * class discussions
   * various other assessments
 
 <a id="assessment2"></a>
 
-##### 2. final assessment (40%)
+##### 2. final assessment (30%)
 
 * develop an app concept and prototype
 * working app (as close as possible...)

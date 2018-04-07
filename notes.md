@@ -20,6 +20,7 @@ This material will be updated on a weekly basis.
 
 ##### Week 12
 
+  * [Friday, 6th April](/assets/docs/2018/comp125-week12-fri.pdf)
   * [Wednesday, 4th April](/assets/docs/2018/comp125-week12-wed.pdf)  
 
 ##### Week 11

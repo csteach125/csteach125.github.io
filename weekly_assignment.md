@@ -19,6 +19,18 @@ summary: weekly assignment for COMP 125
 ***
 
 ##### Week 12
+* 6th April 2018
+  * review this week's [notes and material](/notes), which includes the class notes
+  * please review the [bibliography](/bibliography) material for this week
+  * please review today's source code examples,
+    * [source - Canvas](https://github.com/csteach125/source/tree/master/canvas)
+  * please continue to prepare your idea and design for the final project demo and presentation
+   * define and outline your initial project idea and concept
+   * create initial sketches and paper designs
+  * please send the following details of your chosen project to Catherine on Slack
+    * group members and names
+    * initial project title
+    * initial project idea
 * 4th April 2018
   * review this week's [notes and material](/notes), which includes the class notes
   * please review the [bibliography](/bibliography) material for this week

@@ -28,6 +28,7 @@ If you have any suggestions for additions to this section of the site, please fe
 
 #### Documentation & Guides
 
+  * [MDN Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
   * MDN - CSS
     * [cascade and inheritance](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Cascade_and_inheritance)
     * [documentation](https://developer.mozilla.org/en-US/docs/Web/CSS)

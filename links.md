@@ -28,6 +28,7 @@ If you have any suggestions for additions to this section of the site, please fe
 
 #### Documentation & Guides
 
+  * [MDN Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
   * MDN - CSS
     * [cascade and inheritance](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Cascade_and_inheritance)
     * [documentation](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -100,13 +101,6 @@ and choose your favourite.
   * [HTML5 Audio formats](http://textopia.org/androidsoundformats.html)
   * [HTML5 Test](http://html5test.com/)
   * [JSLint - JavaScript Validator](http://jslint.com/)
-
-<!--
-  * [Chocolatey for Windows](https://chocolatey.org/)
-  * [Firebug](http://getfirebug.com/)
-  * [Homebrew - the missing package manager for OS X](http://brew.sh/)
-  * [JSONLint - JSON Validator](http://jsonlint.com/)
--->
 
 #### Videos
 

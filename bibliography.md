@@ -20,6 +20,14 @@ There is no specific textbook for this course.
 
 ***
 
+<!--
+##### Week 14
+  * MDN - Canvas
+    * [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
+  * W3Schools - HTML5
+    * [canvas element](https://www.w3schools.com/html/html5_canvas.asp)
+-->
+
 ##### Week 13
   * MDN - Canvas
     * [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)

@@ -18,7 +18,6 @@ summary: weekly assignment for COMP 125
 
 ***
 
-<!--
 ##### Week 14
 * 16th April 2018
   * review this week's [notes and material](/notes), which includes the class notes
@@ -26,7 +25,10 @@ summary: weekly assignment for COMP 125
   * please review today's source code examples,
     * [source - Canvas](https://github.com/csteach125/source/tree/master/canvas)
   * please continue to design and develop your application for the final project demo and presentation
--->
+
+Any questions, please let me know.
+
+Enjoy your week.
 
 ##### Week 13
 * 13th April 2018
@@ -50,6 +52,10 @@ summary: weekly assignment for COMP 125
     * [source - Canvas](https://github.com/csteach125/source/tree/master/canvas)
   * please continue to design and develop your application for the final project demo and presentation
    * create initial digital prototype for this application
+
+Any questions, please let me know.
+
+Enjoy your week.
 
 ##### Week 12
 * 6th April 2018

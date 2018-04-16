@@ -36,6 +36,7 @@ If you have any suggestions for additions to this section of the site, please fe
     * [selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
   * [MDN - JavaScript Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
   * [MDN - JavaScript data types and data structure](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
+  * [MDN - Prototype](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/prototype)
   * [MDN - What is JavaScript?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
   * [MDN - Working with Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
   * [W3C Documentation - CSS](http://www.w3.org/Style/CSS/)
@@ -60,6 +61,7 @@ If you have any suggestions for additions to this section of the site, please fe
     * [functions](https://www.w3schools.com/js/js_functions.asp)
     * [Math Object](https://www.w3schools.com/js/js_math.asp)
     * [Objects and Properties](https://www.w3schools.com/js/js_properties.asp)
+    * [Prototypes](https://www.w3schools.com/js/js_object_prototypes.asp)
     * [Strings](https://www.w3schools.com/js/js_strings.asp)
 
 #### Frameworks & Libraries - CSS, JS... (a few examples)

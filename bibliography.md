@@ -20,13 +20,12 @@ There is no specific textbook for this course.
 
 ***
 
-<!--
 ##### Week 14
-  * MDN - Canvas
-    * [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
+  * [MDN - Prototype](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/prototype)
   * W3Schools - HTML5
+    * [media elements](https://www.w3schools.com/html/html_media.asp)
     * [canvas element](https://www.w3schools.com/html/html5_canvas.asp)
--->
+  * [W3Schools - Prototypes](https://www.w3schools.com/js/js_object_prototypes.asp)
 
 ##### Week 13
   * MDN - Canvas

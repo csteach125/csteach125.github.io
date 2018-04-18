@@ -25,7 +25,9 @@ There is no specific textbook for this course.
   * W3Schools - HTML5
     * [media elements](https://www.w3schools.com/html/html_media.asp)
     * [canvas element](https://www.w3schools.com/html/html5_canvas.asp)
-  * [W3Schools - Prototypes](https://www.w3schools.com/js/js_object_prototypes.asp)
+  * W3Schools - JS
+    * [event listener](https://www.w3schools.com/jsref/met_element_addeventlistener.asp)
+    * [Prototypes](https://www.w3schools.com/js/js_object_prototypes.asp)
 
 ##### Week 13
   * MDN - Canvas

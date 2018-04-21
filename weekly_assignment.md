@@ -19,6 +19,15 @@ summary: weekly assignment for COMP 125
 ***
 
 ##### Week 14
+* 20th April 2018
+  * review this week's [notes and material](/notes), which includes the class notes
+  * please review the [bibliography](/bibliography) material for this week
+  * please review today's source code examples,
+    * [source - Canvas](https://github.com/csteach125/source/tree/master/canvas)
+  * please prepare your group's presentation and demo for next week
+    * presentations and demos will be held on Monday 23rd, Wednesday 25th, and Friday 27th April 2018
+    * each presentation should be approximately 10 minutes per group
+    * further details may be found on pages 2 and 3 of the course notes for [Week 13, Monday 9th April 2018](https://csteach125.github.io/assets/docs/2018/comp125-week13-mon.pdf)
 * 18th April 2018
   * review this week's [notes and material](/notes), which includes the class notes
   * please review the [bibliography](/bibliography) material for this week

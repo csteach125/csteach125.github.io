@@ -19,9 +19,17 @@ summary: weekly assignment for COMP 125
 ***
 
 ##### Week 15
-* Please prepare your group's final report as detailed in the following extra notes,
+* Please complete your group's final project report
+  * suggested report length approximately 5 pages (n.b. more than 5 pages is fine...)
+* Further details can be found in the following outline
   * [Final Report Outline](/assets/docs/extras/comp125-final-report-outline-2018.pdf)
-  * report is due by 1pm on Thursday 3rd May 2018
+* Report must be submitted by 1pm on Thursday 3rd May 2018
+   * send a PDF copy to [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP125 - Final Report)
+* Please share with the course's TA, Catherine, a copy of your group's final code. This may include the following options,
+  * GitHub
+  * Zip file attached to a private message in Slack
+
+**NB:** Don't forget to add details of each member's contributions to the project in this report. If you prefer, you may submit an individual report for this contribution outline to [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP125 - Individual Final Report)
 
 Any questions, please let me know.
 

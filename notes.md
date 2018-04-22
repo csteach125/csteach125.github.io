@@ -18,6 +18,10 @@ This material will be updated on a weekly basis.
 
 ***
 
+##### Week 15
+
+  * [Final Report Outline](/assets/docs/extras/comp125-final-report-outline-2018.pdf)
+
 ##### Week 14
 
   * [Friday, 20th April](/assets/docs/2018/comp125-week14-fri.pdf)

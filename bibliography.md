@@ -20,6 +20,9 @@ There is no specific textbook for this course.
 
 ***
 
+##### Week 15
+  * N/A
+
 ##### Week 14
   * [MDN - Prototype](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/prototype)
   * W3Schools - HTML5

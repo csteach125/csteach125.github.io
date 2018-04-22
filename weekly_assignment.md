@@ -18,6 +18,15 @@ summary: weekly assignment for COMP 125
 
 ***
 
+##### Week 15
+* Please prepare your group's final report as detailed in the following extra notes,
+  * [Final Report Outline](/assets/docs/extras/comp125-final-report-outline-2018.pdf)
+  * report is due by 1pm on Thursday 3rd May 2018
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 ##### Week 14
 * 20th April 2018
   * review this week's [notes and material](/notes), which includes the class notes

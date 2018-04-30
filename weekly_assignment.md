@@ -28,6 +28,8 @@ summary: weekly assignment for COMP 125
 * Please share with the course's TA, Catherine, a copy of your group's final code. This may include the following options,
   * GitHub
   * Zip file attached to a private message in Slack
+* Please sign and submit the following student declaration for work completed towards the final project,
+  * [Student Declaration](/assets/docs/extras/comp125-student-declaration.pdf)
 
 **NB:** Don't forget to add details of each member's contributions to the project in this report. If you prefer, you may submit an individual report for this contribution outline to [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP125 - Individual Final Report)
 

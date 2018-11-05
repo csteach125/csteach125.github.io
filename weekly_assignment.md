@@ -18,6 +18,9 @@ summary: weekly assignment for COMP 125
 
 ***
 
+Course assignments will be updated during the semester.
+
+<!--
 ##### Week 15
 * Please complete your group's final project report
   * suggested report length approximately 5 pages (n.b. more than 5 pages is fine...)

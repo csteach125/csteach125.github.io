@@ -18,6 +18,9 @@ This material will be updated on a weekly basis.
 
 ***
 
+Course notes will be updated during the semester.
+
+<!--
 ##### Week 15
 
   * [Final Report Outline](/assets/docs/extras/comp125-final-report-outline-2018.pdf)
@@ -98,3 +101,4 @@ This material will be updated on a weekly basis.
   * [Friday, 19th January](/assets/docs/2018/comp125-week1-fri.pdf)
   * extra notes
     * [Git basics](/assets/docs/extras/git-basics.pdf)
+-->

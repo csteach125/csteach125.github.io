@@ -20,6 +20,9 @@ There is no specific textbook for this course.
 
 ***
 
+Course bibliography will be updated during the semester.
+
+<!--
 ##### Week 15
   * N/A
 
@@ -123,3 +126,4 @@ There is no specific textbook for this course.
 ##### Week 1
 
   * [MDN - What is JavaScript?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
+-->

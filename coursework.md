@@ -66,7 +66,7 @@ If you have any questions on the following assessments, please [contact](/contac
   * during final week of semester
   * Wednesday 24th April and Friday 26th April 2019
 * final project report
-  * due Friday 3rd May 2018 @ 1pm
+  * due Friday 3rd May 2019 @ 1pm
 
 #### Grading
 

@@ -8,7 +8,7 @@ categories:
 
 tags: general site home
 published: true
-summary: Visual Information Processing, Spring 2018
+summary: Visual Information Processing, Spring 2019
 ---
 
 Welcome to the course website for COMP 125, *Visual Information Processing*.

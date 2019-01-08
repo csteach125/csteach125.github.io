@@ -64,9 +64,9 @@ If you have any questions on the following assessments, please [contact](/contac
 
 * final team demo
   * during final week of semester
-  * Monday 23rd April, Wednesday 25th April, and Friday 27th April 2018
+  * Wednesday 24th April and Friday 26th April 2019
 * final project report
-  * due Thursday 3rd May 2018 @ 1pm
+  * due Friday 3rd May 2018 @ 1pm
 
 #### Grading
 

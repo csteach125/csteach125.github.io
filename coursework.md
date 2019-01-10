@@ -29,6 +29,8 @@ If you have any questions on the following assessments, please [contact](/contac
     * group report must clearly define each student's work and contributions, where applicable
       * no attribution, no mark
 
+* [Final Report Outline - PDF Document](/assets/docs/extras/comp125-final-report-outline-2019.pdf)
+
 #### Assessed coursework will include the following primary categories:
 
 <a id="assessment1"></a>
@@ -66,7 +68,7 @@ If you have any questions on the following assessments, please [contact](/contac
   * during final week of semester
   * Wednesday 24th April and Friday 26th April 2019
 * final project report
-  * due Friday 3rd May 2019 @ 1pm
+  * due Friday 3rd May 2019 @ 1.25pm
 
 #### Grading
 

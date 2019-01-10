@@ -30,11 +30,11 @@ This class will meet at the following time and place,
 * Final class: Friday 26th April 2019
 	* presentation & demo: Wednesday 24th & Friday 26th April 2019 @ 12.35pm
 * Exam week: Monday 29th April to Saturday 4th May 2019
-	* Final assessment due on Friday 3rd May 2019 by 1pm
+	* Final assessment due on Friday 3rd May 2019 by 1.25pm
 
 #### Coursework Schedule
 
 * final team demo
   * due Wednesday 24th & Friday 26th April 2019 @ 12.35pm
 * final team report
-  * due Friday 3rd May 2019 by 1pm
+  * due Friday 3rd May 2019 by 1.25pm

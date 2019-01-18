@@ -297,18 +297,18 @@ Any questions, please let me know.
 
 Enjoy your week.
 
-##### Week 1 - 19th January 2018
+-->
+
+##### Week 1 - 18th January 2019
 * review this week's [notes and material](/notes), which includes the class notes and the extra document
   * [Git basics](/assets/docs/extras/git-basics.pdf)
 * please review the following tutorial video on Git usage,
   * Learn Git in 20 minutes - [YouTube](https://youtu.be/Y9XZQO1n_7c?t=1m34s)
 
 ##### Slack group
-I've also created a Slack group for this course, which is called **COMP 125 - Spring 2018 @ LUC**.
+I've also created a Slack group for this course, which is called **COMP 125**.
 
-Invite link for this group is as follows,
-
-  * [COMP 125 - Spring 2018 @ LUC](https://join.slack.com/t/csteach125/shared_invite/enQtMjk5OTY1NTg2NjI2LWY5MTI3ZjcxZTNiODhlYTE0NTQwY2VhMjViNzI3ZGNhYTEwNTY3MTdhM2M0YjVmNDU1NGY0Zjk5M2Y4Y2RiZjY)
+An invite to this group has been sent to your registered LUC email address.
 
 Please accept this invite as soon as possible. We shall be using Slack for class-wide communication, announcements, and discussions.
 

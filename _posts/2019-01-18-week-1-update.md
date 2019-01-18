@@ -9,7 +9,7 @@ categories:
 tags: general news
 year: 2019
 month: 01
-day: 14
+day: 18
 published: true
 summary: site updated and week 1 assignment
 menu: new-semester

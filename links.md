@@ -28,9 +28,14 @@ Course links will be updated during the semester.
 #### Articles & Papers
 
   * Meyer, Eric - *Reset CSS*. meyerweb.com.  [http://meyerweb.com/eric/tools/css/reset/](http://meyerweb.com/eric/tools/css/reset/)
+-->
 
 #### Documentation & Guides
 
+  * [MDN - What is JavaScript?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
+  * [W3Schools - JS](http://www.w3schools.com/js/default.asp)
+
+<!--
   * [MDN Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
   * MDN - CSS
     * [cascade and inheritance](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Cascade_and_inheritance)
@@ -40,12 +45,11 @@ Course links will be updated during the semester.
   * [MDN - JavaScript Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
   * [MDN - JavaScript data types and data structure](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
   * [MDN - Prototype](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/prototype)
-  * [MDN - What is JavaScript?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
   * [MDN - Working with Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
   * [W3C Documentation - CSS](http://www.w3.org/Style/CSS/)
   * [W3C Documentation - CSS Flexible Box Layout Module 1](https://drafts.csswg.org/css-flexbox/)
   * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
-  * [W3C Documentation - Syntax](http://www.w3.org/TR/html-markup/syntax.html)
+  * [W3C Documentation - HTML Syntax](http://www.w3.org/TR/html-markup/syntax.html)
   * [W3Schools - CSS](http://www.w3schools.com/css/default.asp)
     * [Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
     * [fonts](https://www.w3schools.com/css/css_font.asp)
@@ -106,19 +110,26 @@ and choose your favourite.
   * [HTML5 Audio formats](http://textopia.org/androidsoundformats.html)
   * [HTML5 Test](http://html5test.com/)
   * [JSLint - JavaScript Validator](http://jslint.com/)
+-->
 
 #### Videos
 
-  * Beginning Graphic Design
-    * Colour - [YouTube](https://youtu.be/_2LLXnUdUIc)
-    * Typography - [YouTube](https://youtu.be/sByzHoiYFX0)
   * Introducing Atom - [YouTube](https://www.youtube.com/watch?v=Y7aEiVwBAdk)
   * Introducing Microsoft Edge - [YouTube](https://www.youtube.com/watch?v=iH1D31YHsgY)
   * Learn Git in 20 minutes - [YouTube](https://youtu.be/Y9XZQO1n_7c?t=1m34s)
+
+<!--
+  * Beginning Graphic Design
+    * Colour - [YouTube](https://youtu.be/_2LLXnUdUIc)
+    * Typography - [YouTube](https://youtu.be/sByzHoiYFX0)
   * W3C Web standards for the future - [Vimeo](https://vimeo.com/110256895)
+-->
 
 #### Websites
 
+  * [W3 Schools](http://www.w3schools.com/)
+
+<!--
   * A List Apart - [For People Who Make Websites](http://alistapart.com/)
   * Apple - [UI Design Basics](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html)
   * Gnome - [Human Interface Guidelines](https://developer.gnome.org/)
@@ -146,8 +157,8 @@ and choose your favourite.
   * ["Research-Based Web Design and Usability Guidelines"](http://guidelines.usability.gov/)
   * ["What & Why of Usability"](http://www.usability.gov/what-and-why/index.html)
   * ["How To & Tools"](http://www.usability.gov/how-to-and-tools/index.html)
+-->
 
 ***
 
 **n.b.** we are not responsible for the content of external websites, and whilst we try to check the currency of each link, some may no longer work.
--->

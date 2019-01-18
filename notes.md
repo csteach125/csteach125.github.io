@@ -101,5 +101,6 @@ Course notes will be updated during the semester.
 
   * [Monday, 14th January](/assets/docs/2019/comp125-week1-mon.pdf)
   * [Wednesday, 16th January](/assets/docs/2019/comp125-week1-wed.pdf)
+  * [Friday, 18th January](/assets/docs/2019/comp125-week1-fri.pdf)
   * extra notes
     * [Git basics](/assets/docs/extras/git-basics.pdf)

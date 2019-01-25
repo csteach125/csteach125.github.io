@@ -287,8 +287,9 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-##### Week 2 - 26th January 2018
+##### Week 2 - 25th January 2019
 * review this week's [notes and material](/notes), which includes the class notes
   * review the code examples, and test with the Developer Tools in Google Chrome &c.
 * please review the [bibliography](/bibliography) material for this week
@@ -296,8 +297,6 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
-
--->
 
 ##### Week 1 - 18th January 2019
 * review this week's [notes and material](/notes), which includes the class notes and the extra document

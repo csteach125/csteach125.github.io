@@ -114,6 +114,7 @@ Course bibliography will be updated during the semester.
   * W3Schools - JS
     * [arrays](https://www.w3schools.com/js/js_arrays.asp)
     * [strings](https://www.w3schools.com/js/js_strings.asp)
+-->
 
 ##### Week 2
 
@@ -122,7 +123,6 @@ Course bibliography will be updated during the semester.
     * [data types](https://www.w3schools.com/js/js_datatypes.asp)
     * [operators](https://www.w3schools.com/js/js_operators.asp)
     * [variables](https://www.w3schools.com/js/js_variables.asp)
--->
 
 ##### Week 1
 

@@ -34,6 +34,9 @@ Course links will be updated during the semester.
 
   * [MDN - What is JavaScript?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
   * [W3Schools - JS](http://www.w3schools.com/js/default.asp)
+    * [conditionals](https://www.w3schools.com/js/js_if_else.asp)
+    * [For loop](https://www.w3schools.com/js/js_loop_for.asp)
+    * [Strings](https://www.w3schools.com/js/js_strings.asp)
 
 <!--
   * [MDN Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
@@ -62,14 +65,11 @@ Course links will be updated during the semester.
     * [canvas element](https://www.w3schools.com/html/html5_canvas.asp)
   * [W3Schools - JS](http://www.w3schools.com/js/default.asp)
     * [Arrays](https://www.w3schools.com/js/js_arrays.asp)
-    * [conditionals](https://www.w3schools.com/js/js_if_else.asp)
     * [event listener](https://www.w3schools.com/jsref/met_element_addeventlistener.asp)
-    * [For loop](https://www.w3schools.com/js/js_loop_for.asp)
     * [functions](https://www.w3schools.com/js/js_functions.asp)
     * [Math Object](https://www.w3schools.com/js/js_math.asp)
     * [Objects and Properties](https://www.w3schools.com/js/js_properties.asp)
     * [Prototypes](https://www.w3schools.com/js/js_object_prototypes.asp)
-    * [Strings](https://www.w3schools.com/js/js_strings.asp)
 
 #### Frameworks & Libraries - CSS, JS... (a few examples)
 
@@ -101,12 +101,16 @@ and choose your favourite.
   * [Proto.io](https://proto.io/)
   * [Sketch3](http://bohemiancoding.com/sketch/)
   * [XCode Interface Builder](https://developer.apple.com/xcode/interface-builder/)
+-->
 
 #### Useful Tools & Reference
 
-  * [CSS Lint](http://csslint.net/)
   * [Git](http://git-scm.com/)
     * [Pro Git](http://git-scm.com/book/en/v2)
+  * [Visual Studio Code](https://code.visualstudio.com/)
+
+<!--
+  * [CSS Lint](http://csslint.net/)
   * [HTML5 Audio formats](http://textopia.org/androidsoundformats.html)
   * [HTML5 Test](http://html5test.com/)
   * [JSLint - JavaScript Validator](http://jslint.com/)

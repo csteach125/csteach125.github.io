@@ -83,12 +83,11 @@ Course notes will be updated during the semester.
   * [Wednesday, 7th February](/assets/docs/2018/comp125-week4-wed.pdf)
   * [Monday, 5th February](/assets/docs/2018/comp125-week4-mon.pdf)
 
+-->
+
 ##### Week 3
 
-  * [Friday, 2nd February](/assets/docs/2018/comp125-week3-fri.pdf)
-  * [Wednesday, 31st January](/assets/docs/2018/comp125-week3-wed.pdf)
-  * [Monday, 28th January](/assets/docs/2018/comp125-week3-mon.pdf)
--->
+  * [Monday, 28th January](/assets/docs/2019/comp125-week3-mon.pdf)
 
 ##### Week 2
 

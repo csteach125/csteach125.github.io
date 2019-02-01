@@ -268,26 +268,22 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-##### Week 3
-* 2nd February 2018
-  * please ensure you've completed this week's assignment, as detailed at the start of today's class notes
+##### Week 3 - 1st February 2019
+* review this week's [notes and material](/notes), which includes the class notes
+  * review the code examples, and test with the Developer Tools in Google Chrome &c.
+* please review the [bibliography](/bibliography) material for this week
+* please ensure you've completed this week's assignment, as detailed at the start of today's class notes
   * create a user account on CodePen
     * https://codepen.io
   * please create a PEN on CodePen for this week's completed assignment
-  * send the URL for the PEN of this week's assignment as a private message to the course's TA, Catherine, on Slack
-  * assignment is due by Monday 5th February @ 2.30pm
-* 31st January 2018
-  * please complete the assignment listed on page 7 of today's notes
-* 29th January 2018
-  * review this week's [notes and material](/notes), which includes the class notes
-    * review the code examples, and test with the Developer Tools in Google Chrome &c.
-  * please review the [bibliography](/bibliography) material for this week
+  * send the URL for the PEN of this week's assignment as a private message to the course's TA, Julia Adamski, on Slack
+  * assignment is due by Monday 4th February @ 12.35pm
 
 Any questions, please let me know.
 
 Enjoy your week.
--->
 
 ##### Week 2 - 25th January 2019
 * review this week's [notes and material](/notes), which includes the class notes

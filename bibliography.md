@@ -104,6 +104,7 @@ Course bibliography will be updated during the semester.
   * W3Schools - JS
     * [HTML DOM](https://www.w3schools.com/jsref/dom_obj_attributes.asp)
     * [objects and properties](https://www.w3schools.com/js/js_properties.asp)
+-->
 
 ##### Week 3
 
@@ -114,7 +115,6 @@ Course bibliography will be updated during the semester.
   * W3Schools - JS
     * [arrays](https://www.w3schools.com/js/js_arrays.asp)
     * [strings](https://www.w3schools.com/js/js_strings.asp)
--->
 
 ##### Week 2
 

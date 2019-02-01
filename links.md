@@ -33,9 +33,13 @@ Course links will be updated during the semester.
 #### Documentation & Guides
 
   * [MDN - What is JavaScript?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
+  * [MDN - JavaScript Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+  * [MDN - JavaScript data types and data structure](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
   * [W3Schools - JS](http://www.w3schools.com/js/default.asp)
+  	* [Arrays](https://www.w3schools.com/js/js_arrays.asp)
     * [conditionals](https://www.w3schools.com/js/js_if_else.asp)
     * [For loop](https://www.w3schools.com/js/js_loop_for.asp)
+    * [Math Object](https://www.w3schools.com/js/js_math.asp)
     * [Strings](https://www.w3schools.com/js/js_strings.asp)
 
 <!--
@@ -45,8 +49,6 @@ Course links will be updated during the semester.
     * [documentation](https://developer.mozilla.org/en-US/docs/Web/CSS)
     * [fonts](https://developer.mozilla.org/en-US/docs/Web/CSS/font)
     * [selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
-  * [MDN - JavaScript Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
-  * [MDN - JavaScript data types and data structure](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
   * [MDN - Prototype](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/prototype)
   * [MDN - Working with Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
   * [W3C Documentation - CSS](http://www.w3.org/Style/CSS/)
@@ -64,10 +66,8 @@ Course links will be updated during the semester.
     * [media elements](https://www.w3schools.com/html/html_media.asp)
     * [canvas element](https://www.w3schools.com/html/html5_canvas.asp)
   * [W3Schools - JS](http://www.w3schools.com/js/default.asp)
-    * [Arrays](https://www.w3schools.com/js/js_arrays.asp)
     * [event listener](https://www.w3schools.com/jsref/met_element_addeventlistener.asp)
     * [functions](https://www.w3schools.com/js/js_functions.asp)
-    * [Math Object](https://www.w3schools.com/js/js_math.asp)
     * [Objects and Properties](https://www.w3schools.com/js/js_properties.asp)
     * [Prototypes](https://www.w3schools.com/js/js_object_prototypes.asp)
 
@@ -107,13 +107,13 @@ and choose your favourite.
 
   * [Git](http://git-scm.com/)
     * [Pro Git](http://git-scm.com/book/en/v2)
+  * [JSLint - JavaScript Validator](http://jslint.com/)
   * [Visual Studio Code](https://code.visualstudio.com/)
 
 <!--
   * [CSS Lint](http://csslint.net/)
   * [HTML5 Audio formats](http://textopia.org/androidsoundformats.html)
   * [HTML5 Test](http://html5test.com/)
-  * [JSLint - JavaScript Validator](http://jslint.com/)
 -->
 
 #### Videos

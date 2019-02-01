@@ -14,7 +14,6 @@ summary: weekly assignment for COMP 125
 
 #### Assignment submission
 * Weekly assignments are due by the start of the next week's class, unless a specific date is given to the contrary.
-* Submissions should normally be posted to the applicable week's Trello board, unless otherwise stated.
 
 ***
 

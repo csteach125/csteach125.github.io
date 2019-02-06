@@ -80,11 +80,11 @@ Course notes will be updated during the semester.
 
 ##### Week 4
 
+  * [Wednesday, 6th February](/assets/docs/2019/comp125-week4-wed.pdf)
   * [Monday, 4th February](/assets/docs/2019/comp125-week4-mon.pdf)
 
 <!--
   * [Friday, 8th February](/assets/docs/2019/comp125-week4-fri.pdf)
-  * [Wednesday, 6th February](/assets/docs/2019/comp125-week4-wed.pdf)
 -->
 
 ##### Week 3

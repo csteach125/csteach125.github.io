@@ -249,28 +249,26 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-##### Week 4
-* 7th & 9th February 2018
-  * please ensure you've completed this week's assignments
-    * assignment 1 - detailed on page 6 of Monday's class notes
-    * assignment 2 - detailed on page 4 of Wednesday's class notes
-  * send the URL for each PEN of this week's assignment as a private message to the course's TA, Catherine, on Slack
-  * each assignment is due by Monday 12th February @ 2.30pm
-  * please review this week's source code examples, which are available on the course's GitHub account,
-    * [Source - DOM and HTML](https://github.com/csteach125/source)
-* 5th February 2018
-  * review this week's [notes and material](/notes), which includes the class notes
-    * review the code examples, and test with the Developer Tools in Google Chrome &c.
-  * please review the [bibliography](/bibliography) material for this week
+##### Week 4 - 8th February 2019
+* please review this week's [notes and material](/notes), which includes the class notes
+  * review the code examples, and test with the Developer Tools in Google Chrome &c.
+* please review this week's source code examples, which are available on the course's GitHub account,
+  * [Source - DOM and HTML](https://github.com/csteach125/source)
+* please review the [bibliography](/bibliography) material for this week
+* please ensure you've completed this week's assignment, as detailed on page 2 of Friday's class notes
+  * [class notes](/assets/docs/2019/comp125-week4-fri.pdf)
+  * please create a PEN on CodePen for this week's completed assignment
+  * send the URL for the PEN of this week's assignment as a private message to the course's TA, Julia Adamski, on Slack
+  * assignment is due by Monday 11th February @ 12.35pm
 
 Any questions, please let me know.
 
 Enjoy your week.
--->
 
 ##### Week 3 - 1st February 2019
-* review this week's [notes and material](/notes), which includes the class notes
+* please review this week's [notes and material](/notes), which includes the class notes
   * review the code examples, and test with the Developer Tools in Google Chrome &c.
 * please review the [bibliography](/bibliography) material for this week
 * please ensure you've completed this week's assignment, as detailed at the start of today's class notes
@@ -285,7 +283,7 @@ Any questions, please let me know.
 Enjoy your week.
 
 ##### Week 2 - 25th January 2019
-* review this week's [notes and material](/notes), which includes the class notes
+* please review this week's [notes and material](/notes), which includes the class notes
   * review the code examples, and test with the Developer Tools in Google Chrome &c.
 * please review the [bibliography](/bibliography) material for this week
 

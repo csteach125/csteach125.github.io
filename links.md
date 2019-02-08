@@ -36,6 +36,9 @@ Course links will be updated during the semester.
   * [MDN - JavaScript Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
   * [MDN - JavaScript data types and data structure](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
   * [MDN - Working with Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
+  * [W3C Documentation - HTML Syntax](http://www.w3.org/TR/html-markup/syntax.html)
+  * [W3Schools - HTML](http://www.w3schools.com/html/default.asp)
+    * [HTML DOM](https://www.w3schools.com/jsref/dom_obj_attributes.asp)
   * [W3Schools - JS](http://www.w3schools.com/js/default.asp)
     * [Arrays](https://www.w3schools.com/js/js_arrays.asp)
     * [conditionals](https://www.w3schools.com/js/js_if_else.asp)
@@ -55,14 +58,12 @@ Course links will be updated during the semester.
   * [W3C Documentation - CSS](http://www.w3.org/Style/CSS/)
   * [W3C Documentation - CSS Flexible Box Layout Module 1](https://drafts.csswg.org/css-flexbox/)
   * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
-  * [W3C Documentation - HTML Syntax](http://www.w3.org/TR/html-markup/syntax.html)
   * [W3Schools - CSS](http://www.w3schools.com/css/default.asp)
     * [Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
     * [fonts](https://www.w3schools.com/css/css_font.asp)
     * [selectors reference](https://www.w3schools.com/cssref/css_selectors.asp)
     * [web fonts](https://www.w3schools.com/css/css3_fonts.asp)
   * [W3Schools - HTML](http://www.w3schools.com/html/default.asp)
-    * [HTML DOM](https://www.w3schools.com/jsref/dom_obj_attributes.asp)
     * [HTML5 Semantic Elements](http://www.w3schools.com/html/html5_semantic_elements.asp)
     * [media elements](https://www.w3schools.com/html/html_media.asp)
     * [canvas element](https://www.w3schools.com/html/html5_canvas.asp)
@@ -121,12 +122,14 @@ and choose your favourite.
   * Introducing Atom - [YouTube](https://www.youtube.com/watch?v=Y7aEiVwBAdk)
   * Introducing Microsoft Edge - [YouTube](https://www.youtube.com/watch?v=iH1D31YHsgY)
   * Learn Git in 20 minutes - [YouTube](https://youtu.be/Y9XZQO1n_7c?t=1m34s)
+  * TED Talks
+    * [How the hyperlink changed everything](https://www.youtube.com/watch?v=3Va3oY8pfSI&t=4s)
+  * W3C Web standards for the future - [Vimeo](https://vimeo.com/110256895)
 
 <!--
   * Beginning Graphic Design
     * Colour - [YouTube](https://youtu.be/_2LLXnUdUIc)
     * Typography - [YouTube](https://youtu.be/sByzHoiYFX0)
-  * W3C Web standards for the future - [Vimeo](https://vimeo.com/110256895)
 -->
 
 #### Websites

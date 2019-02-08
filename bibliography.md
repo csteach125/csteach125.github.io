@@ -99,7 +99,7 @@ Course bibliography will be updated during the semester.
 ##### Week 4
 
   * Jaffe, Jim., *Application Foundations For The Open Web Platform*. W3C. 10.14.2014. [http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/](http://www.w3.org/blog/2014/10/application-foundations-for-the-open-web-platform/)
-  * [W3C Documentation - Syntax](http://www.w3.org/TR/html-markup/syntax.html)
+  * [W3C Documentation - HTML Syntax](http://www.w3.org/TR/html-markup/syntax.html)
   * MDN - JS
     * [working with objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
   * W3Schools - JS

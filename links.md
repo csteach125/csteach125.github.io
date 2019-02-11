@@ -37,8 +37,10 @@ Course links will be updated during the semester.
   * [MDN - JavaScript data types and data structure](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
   * [MDN - Working with Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
   * [W3C Documentation - HTML Syntax](http://www.w3.org/TR/html-markup/syntax.html)
+  * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
   * [W3Schools - HTML](http://www.w3schools.com/html/default.asp)
     * [HTML DOM](https://www.w3schools.com/jsref/dom_obj_attributes.asp)
+    * [HTML5 Semantic Elements](http://www.w3schools.com/html/html5_semantic_elements.asp)
   * [W3Schools - JS](http://www.w3schools.com/js/default.asp)
     * [Arrays](https://www.w3schools.com/js/js_arrays.asp)
     * [conditionals](https://www.w3schools.com/js/js_if_else.asp)
@@ -57,14 +59,12 @@ Course links will be updated during the semester.
   * [MDN - Prototype](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/prototype)
   * [W3C Documentation - CSS](http://www.w3.org/Style/CSS/)
   * [W3C Documentation - CSS Flexible Box Layout Module 1](https://drafts.csswg.org/css-flexbox/)
-  * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
   * [W3Schools - CSS](http://www.w3schools.com/css/default.asp)
     * [Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
     * [fonts](https://www.w3schools.com/css/css_font.asp)
     * [selectors reference](https://www.w3schools.com/cssref/css_selectors.asp)
     * [web fonts](https://www.w3schools.com/css/css3_fonts.asp)
   * [W3Schools - HTML](http://www.w3schools.com/html/default.asp)
-    * [HTML5 Semantic Elements](http://www.w3schools.com/html/html5_semantic_elements.asp)
     * [media elements](https://www.w3schools.com/html/html_media.asp)
     * [canvas element](https://www.w3schools.com/html/html5_canvas.asp)
   * [W3Schools - JS](http://www.w3schools.com/js/default.asp)
@@ -108,13 +108,13 @@ and choose your favourite.
 
   * [Git](http://git-scm.com/)
     * [Pro Git](http://git-scm.com/book/en/v2)
+  * [HTML5 Audio formats](http://textopia.org/androidsoundformats.html)
+  * [HTML5 Test](http://html5test.com/)
   * [JSLint - JavaScript Validator](http://jslint.com/)
   * [Visual Studio Code](https://code.visualstudio.com/)
 
 <!--
   * [CSS Lint](http://csslint.net/)
-  * [HTML5 Audio formats](http://textopia.org/androidsoundformats.html)
-  * [HTML5 Test](http://html5test.com/)
 -->
 
 #### Videos
@@ -134,7 +134,11 @@ and choose your favourite.
 
 #### Websites
 
+  * W3C
+    * [App Foundations](http://www.w3.org/appfoundations/)
+    * [Standards](http://www.w3.org/standards/)
   * [W3 Schools](http://www.w3schools.com/)
+    * [HTML Colour Picker](http://www.w3schools.com/colors/colors_picker.asp)
 
 <!--
   * A List Apart - [For People Who Make Websites](http://alistapart.com/)
@@ -151,11 +155,6 @@ and choose your favourite.
     * [Destroy things in a video](http://www.craftymind.com/factory/html5video/CanvasVideo.html)
     * [Jelly](https://codepen.io/dissimulate/pen/dJgMaO)
     * [Particles](https://codepen.io/eltonkamami/pen/ECrKd)
-  * W3C
-    * [App Foundations](http://www.w3.org/appfoundations/)
-    * [Standards](http://www.w3.org/standards/)
-  * [W3 Schools](http://www.w3schools.com/)
-    * [HTML Colour Picker](http://www.w3schools.com/colors/colors_picker.asp)
 
 #### Extras
 

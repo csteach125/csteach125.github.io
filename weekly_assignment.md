@@ -232,24 +232,33 @@ Enjoy your week, and Spring Break.
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
 ##### Week 5
-* 16th February 2018
-  * review today's [notes and material](/notes), which includes the class notes
-  * review the code example pushed to the course's GitHub account,
-    * [source - week 5](https://github.com/csteach125/source/tree/master/games/week5)
-* 14th February 2018
-  * review today's [notes and material](/notes), which includes the class notes
-    * review the code examples in the class notes, and test with CodePen &c.
-* 12th February 2018
+
+* 11th February 2019
   * review today's [notes and material](/notes), which includes the class notes
     * review the code examples in the class notes, and test with CodePen &c.
   * please review the [bibliography](/bibliography) material for this week
+  * please prepare for a quiz scheduled for in-class on Friday 15th February 2019
+    * quiz will include material from the class notes for weeks 1 to 5, inclusive of today's class notes
+    * quiz will be approximately 30 minutes in length
+    * questions will be multiple choice
+    * please bring your laptop or other internet connected device to class. e.g. tablet or phone
+    * this quiz uses an online Google Form
+      * **n.b.** you'll need a Google account to register for the quiz
+  * **n.b.** Wednesday's class, 13th February, is an opportunity to revise and prepare for the above quiz
+
+<!--
+* 15th February 2019
+  * review today's [notes and material](/notes), which includes the class notes
+  * review the code example pushed to the course's GitHub account,
+    * [source - week 5](https://github.com/csteach125/source/tree/master/games/week5)
+-->
 
 Any questions, please let me know.
 
 Enjoy your week.
--->
 
 ##### Week 4 - 8th February 2019
 * please review this week's [notes and material](/notes), which includes the class notes

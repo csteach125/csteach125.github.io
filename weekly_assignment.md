@@ -236,18 +236,28 @@ Enjoy your week.
 
 ##### Week 5
 
-* 11th February 2019
-  * review today's [notes and material](/notes), which includes the class notes
-    * review the code examples in the class notes, and test with CodePen &c.
-  * please review the [bibliography](/bibliography) material for this week
-  * please prepare for a quiz scheduled for in-class on Friday 15th February 2019
-    * quiz will include material from the class notes for weeks 1 to 5, inclusive of today's class notes
-    * quiz will be approximately 30 minutes in length
-    * questions will be multiple choice
-    * please bring your laptop or other internet connected device to class. e.g. tablet or phone
-    * this quiz uses an online Google Form
-      * **n.b.** you'll need a Google account to register for the quiz
-  * **n.b.** Wednesday's class, 13th February, is an opportunity to revise and prepare for the above quiz
+  * 13th February 2019
+    * review today's [notes and material](/notes), which includes the following extra notes
+      * HTML
+        * [HTML - Basics](/assets/docs/extras/html-basics.pdf)
+        * [HTML - DOM Intro](/assets/docs/extras/html-dom-intro.pdf)
+        * [HTML - Intro](/assets/docs/extras/html-intro.pdf)
+      * JavaScript
+        * [JS - Core - Part 1](/assets/docs/extras/js-core-part1.pdf)
+        * [JS - Intro](/assets/docs/extras/js-intro.pdf)
+    * continue to prepare for a quiz, which is scheduled for in-class on Friday 15th February 2019 @ 12.35pm
+  * 11th February 2019
+    * review today's [notes and material](/notes), which includes the class notes
+      * review the code examples in the class notes, and test with CodePen &c.
+    * please review the [bibliography](/bibliography) material for this week
+    * please prepare for a quiz, which is scheduled for in-class on Friday 15th February 2019 @ 12.35pm
+      * quiz will include material from the class notes for weeks 1 to 5, inclusive of today's class notes
+      * quiz will be approximately 30 minutes in length
+      * questions will be multiple choice
+      * please bring your laptop or other internet connected device to class. e.g. tablet or phone
+      * this quiz uses an online Google Form
+        * **n.b.** you'll need a Google account to register for the quiz
+    * **n.b.** Wednesday's class, 13th February, is an opportunity to revise and prepare for the above quiz
 
 <!--
 * 15th February 2019

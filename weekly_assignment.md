@@ -236,8 +236,14 @@ Enjoy your week.
 
 ##### Week 5
 
+  * 15th February 2019
+    * please review today's [notes and material](/notes), which includes the class notes
+      * review the code examples in the class notes, and test with CodePen &c.
+    * please review the [bibliography](/bibliography) material for this week
+    * please review the code example pushed to the course's GitHub account,
+      * [source](https://github.com/csteach125/source/)
   * 13th February 2019
-    * review today's [notes and material](/notes), which includes the following extra notes
+    * please review today's [notes and material](/notes), which includes the following extra notes
       * HTML
         * [HTML - Basics](/assets/docs/extras/html-basics.pdf)
         * [HTML - DOM Intro](/assets/docs/extras/html-dom-intro.pdf)
@@ -247,7 +253,7 @@ Enjoy your week.
         * [JS - Intro](/assets/docs/extras/js-intro.pdf)
     * continue to prepare for a quiz, which is scheduled for in-class on Friday 15th February 2019 @ 12.35pm
   * 11th February 2019
-    * review today's [notes and material](/notes), which includes the class notes
+    * please review today's [notes and material](/notes), which includes the class notes
       * review the code examples in the class notes, and test with CodePen &c.
     * please review the [bibliography](/bibliography) material for this week
     * please prepare for a quiz, which is scheduled for in-class on Friday 15th February 2019 @ 12.35pm
@@ -258,13 +264,6 @@ Enjoy your week.
       * this quiz uses an online Google Form
         * **n.b.** you'll need a Google account to register for the quiz
     * **n.b.** Wednesday's class, 13th February, is an opportunity to revise and prepare for the above quiz
-
-<!--
-* 15th February 2019
-  * review today's [notes and material](/notes), which includes the class notes
-  * review the code example pushed to the course's GitHub account,
-    * [source - week 5](https://github.com/csteach125/source/tree/master/games/week5)
--->
 
 Any questions, please let me know.
 

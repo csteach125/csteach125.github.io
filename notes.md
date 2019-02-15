@@ -73,6 +73,7 @@ Course notes will be updated during the semester.
 -->
 
 ##### Week 5
+* [Friday, 15th February](/assets/docs/2019/comp125-week5-fri.pdf)
 * Wednesday 13th February
   * HTML
     * [HTML - Basics](/assets/docs/extras/html-basics.pdf)

@@ -44,6 +44,7 @@ Course links will be updated during the semester.
   * [W3Schools - JS](http://www.w3schools.com/js/default.asp)
     * [Arrays](https://www.w3schools.com/js/js_arrays.asp)
     * [conditionals](https://www.w3schools.com/js/js_if_else.asp)
+    * [event listener](https://www.w3schools.com/jsref/met_element_addeventlistener.asp)
     * [For loop](https://www.w3schools.com/js/js_loop_for.asp)
     * [Math Object](https://www.w3schools.com/js/js_math.asp)
     * [Objects and Properties](https://www.w3schools.com/js/js_properties.asp)
@@ -68,7 +69,6 @@ Course links will be updated during the semester.
     * [media elements](https://www.w3schools.com/html/html_media.asp)
     * [canvas element](https://www.w3schools.com/html/html5_canvas.asp)
   * [W3Schools - JS](http://www.w3schools.com/js/default.asp)
-    * [event listener](https://www.w3schools.com/jsref/met_element_addeventlistener.asp)
     * [functions](https://www.w3schools.com/js/js_functions.asp)
     * [Prototypes](https://www.w3schools.com/js/js_object_prototypes.asp)
 
@@ -134,6 +134,9 @@ and choose your favourite.
 
 #### Websites
 
+  * [The Unicode Consortium](http://www.unicode.org/)
+  * [Unicode Information](http://www.alanwood.net/unicode/)
+    * [Unicode examples](http://www.alanwood.net/unicode/unicode_samples.html)
   * W3C
     * [App Foundations](http://www.w3.org/appfoundations/)
     * [Standards](http://www.w3.org/standards/)
@@ -146,9 +149,6 @@ and choose your favourite.
   * Gnome - [Human Interface Guidelines](https://developer.gnome.org/)
   * Google - [Material Design](http://www.google.com/design/spec/material-design/introduction.html)
   * Google - [Material Design](http://www.google.com/design/spec/material-design/introduction.html)
-  * [The Unicode Consortium](http://www.unicode.org/)
-  * [Unicode Information](http://www.alanwood.net/unicode/)
-    * [Unicode examples](http://www.alanwood.net/unicode/unicode_samples.html)
   * HTML5 Canvas examples
     * [Canvas cycle](http://www.effectgames.com/demos/canvascycle/)
     * [Curtain](https://codepen.io/dissimulate/pen/KrAwx)

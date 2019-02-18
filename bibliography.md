@@ -75,6 +75,7 @@ Course bibliography will be updated during the semester.
   * W3Schools - JS
     * [functions](https://www.w3schools.com/js/js_functions.asp)
     * [Math object](https://www.w3schools.com/js/js_math.asp)
+-->
 
 ##### Week 6
 
@@ -83,7 +84,6 @@ Course bibliography will be updated during the semester.
     * [For loop](https://www.w3schools.com/js/js_loop_for.asp)
     * [functions](https://www.w3schools.com/js/js_functions.asp)
     * [Math object](https://www.w3schools.com/js/js_math.asp)
--->
 
 ##### Week 5
 

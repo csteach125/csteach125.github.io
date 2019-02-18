@@ -212,27 +212,32 @@ Any questions, please let me know.
 
 Enjoy your week, and Spring Break.
 
+-->
+
 ##### Week 6
-* 23rd February 2018
+
+  * 18th February 2019
+    * review today's [notes and material](/notes), which includes the class notes
+    * review the code examples in the class notes, and test with CodePen &c.
+    * please review the [bibliography](/bibliography) material for this week
+
+<!-- * 23rd February 2018
   * review today's [notes and material](/notes), which includes the class notes
   * please ensure you've completed this week's assignment
     * detailed on page 2 of today's class notes
   * send completed files for this week's assignment as a private message to the course's TA, Catherine, on Slack
   * assignment is due by Wednesday 28th February @ 2.30pm
+  * review the code example pushed to the course's GitHub account,
+      * [source - week 6](https://github.com/csteach125/source/tree/master/games/)
 * 21st February 2018
   * review today's [notes and material](/notes), which includes the class notes
   * review the latest code examples pushed to the course's GitHub account,
     * [source - week 6](https://github.com/csteach125/source/tree/master/games/week6)
-    * [source - HTML - lists](https://github.com/csteach125/source/tree/master/html/lists)
-* 19th February 2018
-  * review today's [notes and material](/notes), which includes the class notes
-  * review the code example pushed to the course's GitHub account,
-    * [source - week 5](https://github.com/csteach125/source/tree/master/games/week5)
+    * [source - HTML - lists](https://github.com/csteach125/source/tree/master/html/lists) -->
 
 Any questions, please let me know.
 
 Enjoy your week.
--->
 
 ##### Week 5
 

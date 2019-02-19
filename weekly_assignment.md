@@ -216,6 +216,13 @@ Enjoy your week, and Spring Break.
 
 ##### Week 6
 
+  <!-- 
+	* 20th February 2019
+    * review today's [notes and material](/notes), which includes the class notes
+    * review the code examples in the class notes, and test with CodePen &c.
+    * please review the [bibliography](/bibliography) material for this week 
+  -->
+	
   * 18th February 2019
     * review today's [notes and material](/notes), which includes the class notes
     * review the code examples in the class notes, and test with CodePen &c.

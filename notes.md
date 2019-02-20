@@ -68,11 +68,11 @@ Course notes will be updated during the semester.
 
 ##### Week 6
 
+  * [Wednesday, 20th February](/assets/docs/2019/comp125-week6-wed.pdf)
   * [Monday, 18th February](/assets/docs/2019/comp125-week6-mon.pdf)
 
   <!-- 
 	* [Friday, 23rd February](/assets/docs/2018/comp125-week6-fri.pdf) 
-	* * [Wednesday, 20th February](/assets/docs/2019/comp125-week6-wed.pdf)
 	* -->
 
 ##### Week 5
@@ -86,11 +86,6 @@ Course notes will be updated during the semester.
     * [JS - Core - Part 1](/assets/docs/extras/js-core-part1.pdf)
     * [JS - Intro](/assets/docs/extras/js-intro.pdf)
 * [Monday, 11th February](/assets/docs/2019/comp125-week5-mon.pdf)
-
-<!--
-  * [Friday, 15th February](/assets/docs/2019/comp125-week5-fri.pdf)
-  * [Wednesday, 13th February](/assets/docs/2019/comp125-week5-wed.pdf)
-  -->
 
 ##### Week 4
 

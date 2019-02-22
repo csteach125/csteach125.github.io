@@ -216,6 +216,17 @@ Enjoy your week, and Spring Break.
 
 ##### Week 6
 
+* 22nd February 2019
+  * please review this week's [notes and material](/notes), which includes the class notes
+    * review the code examples, and test with the Developer Tools in Google Chrome &c.
+  * please review the [bibliography](/bibliography) material for this week
+  * review the code example pushed to the course's GitHub account,
+    * [source - week 6](https://github.com/csteach125/source/tree/master/games/)
+  * please ensure you've completed this week's assignment, as detailed on page 2 of Friday's class notes
+    * [class notes](/assets/docs/2019/comp125-week6-fri.pdf)
+    * please create a PEN on CodePen for this week's completed assignment
+    * send the URL for the PEN of this week's assignment as a private message to the course's TA, Julia Adamski, on Slack
+    * assignment is due by Monday 25th February @ 12.35pm
 * 20th February 2019
   * please review today's [notes and material](/notes), which includes the class notes
   * review the code examples in the class notes, and test with CodePen &c.
@@ -226,20 +237,6 @@ Enjoy your week, and Spring Break.
   * please review today's [notes and material](/notes), which includes the class notes
   * review the code examples in the class notes, and test with CodePen &c.
   * review the [bibliography](/bibliography) material for this week
-
-<!-- * 23rd February 2018
-  * review today's [notes and material](/notes), which includes the class notes
-  * please ensure you've completed this week's assignment
-    * detailed on page 2 of today's class notes
-  * send completed files for this week's assignment as a private message to the course's TA, Catherine, on Slack
-  * assignment is due by Wednesday 28th February @ 2.30pm
-  * review the code example pushed to the course's GitHub account,
-      * [source - week 6](https://github.com/csteach125/source/tree/master/games/)
-* 21st February 2018
-  * review today's [notes and material](/notes), which includes the class notes
-  * review the latest code examples pushed to the course's GitHub account,
-    * [source - week 6](https://github.com/csteach125/source/tree/master/games/week6)
-    * [source - HTML - lists](https://github.com/csteach125/source/tree/master/html/lists) -->
 
 Any questions, please let me know.
 

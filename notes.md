@@ -68,12 +68,9 @@ Course notes will be updated during the semester.
 
 ##### Week 6
 
+  * [Friday, 22nd February](/assets/docs/2019/comp125-week6-fri.pdf) 
   * [Wednesday, 20th February](/assets/docs/2019/comp125-week6-wed.pdf)
   * [Monday, 18th February](/assets/docs/2019/comp125-week6-mon.pdf)
-
-  <!-- 
-	* [Friday, 23rd February](/assets/docs/2018/comp125-week6-fri.pdf) 
-	* -->
 
 ##### Week 5
 * [Friday, 15th February](/assets/docs/2019/comp125-week5-fri.pdf)

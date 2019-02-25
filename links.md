@@ -46,6 +46,7 @@ Course links will be updated during the semester.
     * [conditionals](https://www.w3schools.com/js/js_if_else.asp)
     * [event listener](https://www.w3schools.com/jsref/met_element_addeventlistener.asp)
     * [For loop](https://www.w3schools.com/js/js_loop_for.asp)
+    * [functions](https://www.w3schools.com/js/js_functions.asp)
     * [Math Object](https://www.w3schools.com/js/js_math.asp)
     * [Objects and Properties](https://www.w3schools.com/js/js_properties.asp)
     * [Strings](https://www.w3schools.com/js/js_strings.asp)
@@ -69,7 +70,6 @@ Course links will be updated during the semester.
     * [media elements](https://www.w3schools.com/html/html_media.asp)
     * [canvas element](https://www.w3schools.com/html/html5_canvas.asp)
   * [W3Schools - JS](http://www.w3schools.com/js/default.asp)
-    * [functions](https://www.w3schools.com/js/js_functions.asp)
     * [Prototypes](https://www.w3schools.com/js/js_object_prototypes.asp)
 
 #### Frameworks & Libraries - CSS, JS... (a few examples)

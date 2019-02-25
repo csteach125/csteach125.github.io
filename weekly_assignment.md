@@ -214,6 +214,17 @@ Enjoy your week, and Spring Break.
 
 -->
 
+##### Week 7
+
+* 25th February 2019
+  * please review today's [notes and material](/notes), which includes the class notes
+  * review the code examples in the class notes, and test with CodePen &c.
+  * review the [bibliography](/bibliography) material for this week
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 ##### Week 6
 
 * 22nd February 2019

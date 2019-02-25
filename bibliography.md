@@ -66,6 +66,7 @@ Course bibliography will be updated during the semester.
     * [tutorial](https://www.w3schools.com/css/default.asp)
     * [box model](https://www.w3schools.com/css/css_boxmodel.asp)
     * [selectors reference](https://www.w3schools.com/cssref/css_selectors.asp)
+-->
 
 ##### Week 7
 
@@ -75,7 +76,6 @@ Course bibliography will be updated during the semester.
   * W3Schools - JS
     * [functions](https://www.w3schools.com/js/js_functions.asp)
     * [Math object](https://www.w3schools.com/js/js_math.asp)
--->
 
 ##### Week 6
 

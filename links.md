@@ -148,7 +148,6 @@ and choose your favourite.
   * Apple - [UI Design Basics](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html)
   * Gnome - [Human Interface Guidelines](https://developer.gnome.org/)
   * Google - [Material Design](http://www.google.com/design/spec/material-design/introduction.html)
-  * Google - [Material Design](http://www.google.com/design/spec/material-design/introduction.html)
   * HTML5 Canvas examples
     * [Canvas cycle](http://www.effectgames.com/demos/canvascycle/)
     * [Curtain](https://codepen.io/dissimulate/pen/KrAwx)

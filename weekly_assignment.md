@@ -216,6 +216,13 @@ Enjoy your week, and Spring Break.
 
 ##### Week 7
 
+* 1st March 2019
+  * review today's [notes and material](/notes), which includes the class notes
+  * please review today's source code examples,
+    * [source - web-dev - random-greeting](https://github.com/csteach125/source/tree/master/web-dev/random-greeting)
+  * Spring Break Assignment - Up to Monday 11th March 2019
+    * read through all of the course notes for weeks 1 to 7 inclusive
+    * read and test all of the course source code examples on GitHub - [source](https://github.com/csteach125/source/)
 * 27th February 2019
   * please review today's [notes and material](/notes), which includes the class notes
   * review the code examples in the class notes, and test with CodePen &c.

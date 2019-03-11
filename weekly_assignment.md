@@ -171,19 +171,11 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
 ##### Week 9
-* 16th March 2018
-  * review this week's [notes and material](/notes), which includes the class notes
-  * please review the [bibliography](/bibliography) material for this week
-  * please review today's source code examples,
-    * [source - CSS](https://github.com/csteach125/source/tree/master/css)
-* 14th March 2018
-  * review this week's [notes and material](/notes), which includes the class notes
-  * please review the [bibliography](/bibliography) material for this week
-  * please review today's source code examples,
-    * [source - CSS - css box model](https://github.com/csteach125/source/tree/master/css/css-box-model)
-* 12th March 2018
+
+* 11th March 2019
   * review this week's [notes and material](/notes), which includes the class notes
   * please review the [bibliography](/bibliography) material for this week
 
@@ -191,28 +183,16 @@ Any questions, please let me know.
 
 Enjoy your week.
 
-##### Week 7
-* 2nd March 2018
-  * review today's [notes and material](/notes), which includes the class notes
+<!-- * 15th March 2019
+  * review this week's [notes and material](/notes), which includes the class notes
+  * please review the [bibliography](/bibliography) material for this week
   * please review today's source code examples,
-    * [source - web-dev - random-greeting](https://github.com/csteach125/source/tree/master/web-dev/random-greeting)
-  * Spring Break Assignment - Up to Monday 12th March 2018
-    * read through all of the course notes for weeks 1 to 7 inclusive
-    * read and test all of the course source code examples on GitHub - [source](https://github.com/csteach125/source/)
-* 28th February 2018
-  * review today's [notes and material](/notes), which includes the class notes
+    * [source - CSS](https://github.com/csteach125/source/tree/master/css)
+* 13th March 2019
+  * review this week's [notes and material](/notes), which includes the class notes
+  * please review the [bibliography](/bibliography) material for this week
   * please review today's source code examples,
-    * [source - HTML tables](https://github.com/csteach125/source/tree/master/html/tables)
-* 26th February 2018
-  * review today's [notes and material](/notes), which includes the class notes
-  * continue working on the current assignment
-    * further details may be found on page 2 of Week 6 - Friday's class notes
-
-Any questions, please let me know.
-
-Enjoy your week, and Spring Break.
-
--->
+    * [source - CSS - css box model](https://github.com/csteach125/source/tree/master/css/css-box-model) -->
 
 ##### Week 7
 
@@ -234,7 +214,7 @@ Enjoy your week, and Spring Break.
 
 Any questions, please let me know.
 
-Enjoy your week.
+Enjoy your week, and Spring break.
 
 ##### Week 6
 

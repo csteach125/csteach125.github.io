@@ -24,20 +24,29 @@ If you have any suggestions for additions to this section of the site, please fe
 
 Course links will be updated during the semester.
 
-<!--
 #### Articles & Papers
 
   * Meyer, Eric - *Reset CSS*. meyerweb.com.  [http://meyerweb.com/eric/tools/css/reset/](http://meyerweb.com/eric/tools/css/reset/)
--->
 
 #### Documentation & Guides
 
+  * MDN - CSS
+    * [cascade and inheritance](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Cascade_and_inheritance)
+    * [documentation](https://developer.mozilla.org/en-US/docs/Web/CSS)
+    * [fonts](https://developer.mozilla.org/en-US/docs/Web/CSS/font)
+    * [selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
   * [MDN - What is JavaScript?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
   * [MDN - JavaScript Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
   * [MDN - JavaScript data types and data structure](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
   * [MDN - Working with Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
+  * [W3C Documentation - CSS](http://www.w3.org/Style/CSS/)
   * [W3C Documentation - HTML Syntax](http://www.w3.org/TR/html-markup/syntax.html)
   * [W3C Documentation - HTML5](http://www.w3.org/TR/html5/Overview.html#contents)
+  * [W3Schools - CSS](http://www.w3schools.com/css/default.asp)
+    * [Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
+    * [fonts](https://www.w3schools.com/css/css_font.asp)
+    * [selectors reference](https://www.w3schools.com/cssref/css_selectors.asp)
+    * [web fonts](https://www.w3schools.com/css/css3_fonts.asp)
   * [W3Schools - HTML](http://www.w3schools.com/html/default.asp)
     * [HTML DOM](https://www.w3schools.com/jsref/dom_obj_attributes.asp)
     * [HTML5 Semantic Elements](http://www.w3schools.com/html/html5_semantic_elements.asp)
@@ -53,19 +62,8 @@ Course links will be updated during the semester.
 
 <!--
   * [MDN Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
-  * MDN - CSS
-    * [cascade and inheritance](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Cascade_and_inheritance)
-    * [documentation](https://developer.mozilla.org/en-US/docs/Web/CSS)
-    * [fonts](https://developer.mozilla.org/en-US/docs/Web/CSS/font)
-    * [selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
   * [MDN - Prototype](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/prototype)
-  * [W3C Documentation - CSS](http://www.w3.org/Style/CSS/)
   * [W3C Documentation - CSS Flexible Box Layout Module 1](https://drafts.csswg.org/css-flexbox/)
-  * [W3Schools - CSS](http://www.w3schools.com/css/default.asp)
-    * [Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
-    * [fonts](https://www.w3schools.com/css/css_font.asp)
-    * [selectors reference](https://www.w3schools.com/cssref/css_selectors.asp)
-    * [web fonts](https://www.w3schools.com/css/css3_fonts.asp)
   * [W3Schools - HTML](http://www.w3schools.com/html/default.asp)
     * [media elements](https://www.w3schools.com/html/html_media.asp)
     * [canvas element](https://www.w3schools.com/html/html5_canvas.asp)
@@ -106,16 +104,13 @@ and choose your favourite.
 
 #### Useful Tools & Reference
 
+  * [CSS Lint](http://csslint.net/)
   * [Git](http://git-scm.com/)
     * [Pro Git](http://git-scm.com/book/en/v2)
   * [HTML5 Audio formats](http://textopia.org/androidsoundformats.html)
   * [HTML5 Test](http://html5test.com/)
   * [JSLint - JavaScript Validator](http://jslint.com/)
   * [Visual Studio Code](https://code.visualstudio.com/)
-
-<!--
-  * [CSS Lint](http://csslint.net/)
--->
 
 #### Videos
 

@@ -57,6 +57,7 @@ Course bibliography will be updated during the semester.
     * [fonts](https://www.w3schools.com/css/css_font.asp)
     * [web fonts](https://www.w3schools.com/css/css3_fonts.asp)
   * [W3Schools - HTML5 Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
+-->
 
 ##### Week 9
   * MDN - CSS
@@ -66,7 +67,6 @@ Course bibliography will be updated during the semester.
     * [tutorial](https://www.w3schools.com/css/default.asp)
     * [box model](https://www.w3schools.com/css/css_boxmodel.asp)
     * [selectors reference](https://www.w3schools.com/cssref/css_selectors.asp)
--->
 
 ##### Week 7
 

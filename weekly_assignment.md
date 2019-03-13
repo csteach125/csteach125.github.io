@@ -175,6 +175,11 @@ Enjoy your week.
 
 ##### Week 9
 
+* 13th March 2019
+  * review this week's [notes and material](/notes), which includes the class notes
+  * please review the [bibliography](/bibliography) material for this week
+  * please review today's source code examples,
+    * [source - CSS - css box model](https://github.com/csteach125/source/tree/master/css/css-box-model)
 * 11th March 2019
   * review this week's [notes and material](/notes), which includes the class notes
   * please review the [bibliography](/bibliography) material for this week

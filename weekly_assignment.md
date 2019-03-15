@@ -175,6 +175,11 @@ Enjoy your week.
 
 ##### Week 9
 
+* 15th March 2019
+  * review this week's [notes and material](/notes), which includes the class notes
+  * please review the [bibliography](/bibliography) material for this week
+  * please review this week's source code examples,
+    * [source - CSS](https://github.com/csteach125/source/tree/master/css/)
 * 13th March 2019
   * review this week's [notes and material](/notes), which includes the class notes
   * please review the [bibliography](/bibliography) material for this week

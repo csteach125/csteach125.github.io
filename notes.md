@@ -56,12 +56,9 @@ Course notes will be updated during the semester.
 
 ##### Week 9
 
+  * [Friday, 15th March](/assets/docs/2019/comp125-week9-fri.pdf)
   * [Wednesday, 13th March](/assets/docs/2019/comp125-week9-wed.pdf)
   * [Monday, 11th March](/assets/docs/2019/comp125-week9-mon.pdf)
-
-<!--
-  * [Friday, 15th March](/assets/docs/2019/comp125-week9-fri.pdf)
--->
 
 ##### Week 7
 

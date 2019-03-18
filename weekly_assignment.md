@@ -173,6 +173,26 @@ Any questions, please let me know.
 Enjoy your week.
 -->
 
+##### Week 10
+
+* 18th March 2019
+  * review this week's [notes and material](/notes), which includes the class notes
+  * please review the [bibliography](/bibliography) material for this week
+  * please review this week's source code examples,
+    * [source - CSS](https://github.com/csteach125/source/tree/master/css/)
+  * please prepare for a quiz, which is scheduled for in-class on Friday 22nd March 2019 @ 12.35pm
+    * quiz will include material from the class notes for weeks 1 to 10, inclusive of today's class notes
+    * quiz will be approximately 40 minutes in length
+    * questions will be multiple choice
+    * please bring your laptop or other internet connected device to class. e.g. tablet or phone
+    * this quiz uses an online Google Form
+      * **n.b.** you'll need a Google account to register for the quiz
+  * **n.b.** Wednesday's class, 20th March, is an opportunity to revise and prepare for the above quiz
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 ##### Week 9
 
 * 15th March 2019

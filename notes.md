@@ -55,6 +55,13 @@ Course notes will be updated during the semester.
 
 ##### Week 10
 
+  * Friday, 22nd March
+    * CSS
+      * [CSS - Basics](/assets/docs/extras/css-basics.pdf)
+      * [CSS - Box Model](/assets/docs/extras/css-box-model.pdf)
+      * [CSS - HTML5](/assets/docs/extras/css-html5.pdf)
+      * [CSS - Intro](/assets/docs/extras/css-intro.pdf)
+  * Wednesday, 20th March - N/A
   * [Monday, 18th March](/assets/docs/2019/comp125-week10-mon.pdf)
 
 ##### Week 9

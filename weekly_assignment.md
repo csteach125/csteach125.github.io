@@ -175,6 +175,17 @@ Enjoy your week.
 
 ##### Week 10
 
+* 22nd March 2019
+  * please review the following extra notes
+    * [CSS - Basics](/assets/docs/extras/css-basics.pdf)
+    * [CSS - Box Model](/assets/docs/extras/css-box-model.pdf)
+    * [CSS - HTML5](/assets/docs/extras/css-html5.pdf)
+    * [CSS - Intro](/assets/docs/extras/css-intro.pdf)
+  * please review the [bibliography](/bibliography) material for this week
+  * please review this week's source code examples,
+    * [source - CSS](https://github.com/csteach125/source/tree/master/css/)
+* 20th March 2019
+  * continue preparation for a quiz, which is scheduled for in-class on Friday 22nd March 2019 @ 12.35pm
 * 18th March 2019
   * review this week's [notes and material](/notes), which includes the class notes
   * please review the [bibliography](/bibliography) material for this week

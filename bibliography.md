@@ -44,11 +44,11 @@ Course bibliography will be updated during the semester.
 ##### Week 12
   * W3Schools - HTML5
     * [canvas element](https://www.w3schools.com/html/html5_canvas.asp)
+-->
 
 ##### Week 11
   * W3Schools - HTML5
     * [media elements](https://www.w3schools.com/html/html_media.asp)
--->
 
 ##### Week 10
   * MDN - CSS

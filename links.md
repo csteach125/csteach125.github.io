@@ -51,6 +51,7 @@ Course links will be updated during the semester.
   * [W3Schools - HTML](http://www.w3schools.com/html/default.asp)
     * [HTML DOM](https://www.w3schools.com/jsref/dom_obj_attributes.asp)
     * [HTML5 Semantic Elements](http://www.w3schools.com/html/html5_semantic_elements.asp)
+    * [media elements](https://www.w3schools.com/html/html_media.asp)
   * [W3Schools - JS](http://www.w3schools.com/js/default.asp)
     * [Arrays](https://www.w3schools.com/js/js_arrays.asp)
     * [conditionals](https://www.w3schools.com/js/js_if_else.asp)
@@ -65,7 +66,6 @@ Course links will be updated during the semester.
   * [MDN Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
   * [MDN - Prototype](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/prototype)
   * [W3Schools - HTML](http://www.w3schools.com/html/default.asp)
-    * [media elements](https://www.w3schools.com/html/html_media.asp)
     * [canvas element](https://www.w3schools.com/html/html5_canvas.asp)
   * [W3Schools - JS](http://www.w3schools.com/js/default.asp)
     * [Prototypes](https://www.w3schools.com/js/js_object_prototypes.asp)
@@ -88,7 +88,6 @@ Course links will be updated during the semester.
 NB: there are many other options available, simply search online for [css frameworks](https://www.google.com/search?q=css+frameworks&oq=css+frameworks&aqs=chrome..69i57.2866j0j1&sourceid=chrome&es_sm=119&ie=UTF-8) &c.
 and choose your favourite.
 
-<!--
 #### Mockup & Prototype Tools - a few examples
 
   * [Adobe Photoshop](http://goo.gl/GsIYY0), [Illustrator](http://goo.gl/9K8Kfw)
@@ -102,7 +101,6 @@ and choose your favourite.
   * [Proto.io](https://proto.io/)
   * [Sketch3](http://bohemiancoding.com/sketch/)
   * [XCode Interface Builder](https://developer.apple.com/xcode/interface-builder/)
--->
 
 #### Useful Tools & Reference
 

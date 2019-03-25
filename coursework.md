@@ -25,7 +25,7 @@ If you have any questions on the following assessments, please [contact](/contac
     * outline design and development for the semester
     * applied concepts and structures
     * ...
-  * groups will be assigned during the semester (max. 5 persons per group)
+  * max. 3 persons per group
     * group report must clearly define each student's work and contributions, where applicable
       * no attribution, no mark
 

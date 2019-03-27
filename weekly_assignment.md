@@ -125,6 +125,9 @@ Enjoy your week.
 -->
 
 ##### Week 11
+* 27th March 2019
+  * review this week's [notes and material](/notes), which includes the class notes
+  * please review the [bibliography](/bibliography) material for this week
 * 25th March 2019
   * review this week's [notes and material](/notes), which includes the class notes
   * please review the [bibliography](/bibliography) material for this week

@@ -125,6 +125,13 @@ Enjoy your week.
 -->
 
 ##### Week 11
+* 29th March 2019
+  * review this week's [notes and material](/notes), which includes the class notes
+  * please review the [bibliography](/bibliography) material for this week
+  * please organise your project groups for the final demo and presentation
+    * further details are available in the [coursework section](/coursework/#assessment2)
+    * details are also available in the course notes for [Monday, 25th March](/assets/docs/2019/comp125-week11-mon.pdf) on pages 2 and 3
+  * please review the video on [Paper Prototyping](https://www.youtube.com/watch?v=JMjozqJS44M&t=7s)
 * 27th March 2019
   * review this week's [notes and material](/notes), which includes the class notes
   * please review the [bibliography](/bibliography) material for this week

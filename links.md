@@ -35,6 +35,7 @@ Course links will be updated during the semester.
     * [documentation](https://developer.mozilla.org/en-US/docs/Web/CSS)
     * [fonts](https://developer.mozilla.org/en-US/docs/Web/CSS/font)
     * [selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
+  * [MDN - HTML5 Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
   * [MDN - What is JavaScript?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
   * [MDN - JavaScript Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
   * [MDN - JavaScript data types and data structure](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
@@ -49,6 +50,7 @@ Course links will be updated during the semester.
     * [selectors reference](https://www.w3schools.com/cssref/css_selectors.asp)
     * [web fonts](https://www.w3schools.com/css/css3_fonts.asp)
   * [W3Schools - HTML](http://www.w3schools.com/html/default.asp)
+    * [canvas element](https://www.w3schools.com/html/html5_canvas.asp)
     * [HTML DOM](https://www.w3schools.com/jsref/dom_obj_attributes.asp)
     * [HTML5 Semantic Elements](http://www.w3schools.com/html/html5_semantic_elements.asp)
     * [media elements](https://www.w3schools.com/html/html_media.asp)
@@ -63,10 +65,7 @@ Course links will be updated during the semester.
     * [Strings](https://www.w3schools.com/js/js_strings.asp)
 
 <!--
-  * [MDN Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
   * [MDN - Prototype](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/prototype)
-  * [W3Schools - HTML](http://www.w3schools.com/html/default.asp)
-    * [canvas element](https://www.w3schools.com/html/html5_canvas.asp)
   * [W3Schools - JS](http://www.w3schools.com/js/default.asp)
     * [Prototypes](https://www.w3schools.com/js/js_object_prototypes.asp)
 -->

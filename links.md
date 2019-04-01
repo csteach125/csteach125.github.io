@@ -92,6 +92,7 @@ and choose your favourite.
   * [Adobe Photoshop](http://goo.gl/GsIYY0), [Illustrator](http://goo.gl/9K8Kfw)
   * [Apple's Keynote](http://keynotopia.com/guides/) (useful for iOS)
   * [Bootstrap](http://getbootstrap.com/)
+  * [Figma](https://www.figma.com/)
   * [Flinto](https://www.flinto.com/)
   * [Framer](http://framerjs.com/)
   * [Google Drawings](http://goo.gl/qPRCfG)

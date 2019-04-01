@@ -40,11 +40,11 @@ Course bibliography will be updated during the semester.
     * [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
   * W3Schools - HTML5
     * [canvas element](https://www.w3schools.com/html/html5_canvas.asp)
+-->
 
 ##### Week 12
   * W3Schools - HTML5
     * [canvas element](https://www.w3schools.com/html/html5_canvas.asp)
--->
 
 ##### Week 11
   * W3Schools - HTML5

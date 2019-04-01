@@ -124,6 +124,15 @@ Any questions, please let me know.
 Enjoy your week.
 -->
 
+##### Week 12
+* 1st April 2019
+  * review this week's [notes and material](/notes), which includes the class notes
+  * please review the [bibliography](/bibliography) material for this week
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 ##### Week 11
 * 29th March 2019
   * review this week's [notes and material](/notes), which includes the class notes

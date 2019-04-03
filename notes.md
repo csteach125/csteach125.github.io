@@ -40,6 +40,7 @@ Course notes will be updated during the semester.
 
 ##### Week 12
 
+  * [Wednesday, 3rd April](/assets/docs/2019/comp125-week12-wed.pdf) 
   * [Monday, 1st April](/assets/docs/2019/comp125-week12-mon.pdf)  
 
 ##### Week 11

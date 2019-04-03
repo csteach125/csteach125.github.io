@@ -125,6 +125,9 @@ Enjoy your week.
 -->
 
 ##### Week 12
+* 3rd April 2019
+  * review this week's [notes and material](/notes), which includes the class notes
+  * please review the [bibliography](/bibliography) material for this week
 * 1st April 2019
   * review this week's [notes and material](/notes), which includes the class notes
   * please review the [bibliography](/bibliography) material for this week

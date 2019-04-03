@@ -114,18 +114,15 @@ and choose your favourite.
 
 #### Videos
 
+  * Beginning Graphic Design
+    * Colour - [YouTube](https://youtu.be/_2LLXnUdUIc)
+    * Typography - [YouTube](https://youtu.be/sByzHoiYFX0)
   * Introducing Atom - [YouTube](https://www.youtube.com/watch?v=Y7aEiVwBAdk)
   * Introducing Microsoft Edge - [YouTube](https://www.youtube.com/watch?v=iH1D31YHsgY)
   * Learn Git in 20 minutes - [YouTube](https://youtu.be/Y9XZQO1n_7c?t=1m34s)
   * TED Talks
     * [How the hyperlink changed everything](https://www.youtube.com/watch?v=3Va3oY8pfSI&t=4s)
   * W3C Web standards for the future - [Vimeo](https://vimeo.com/110256895)
-
-<!--
-  * Beginning Graphic Design
-    * Colour - [YouTube](https://youtu.be/_2LLXnUdUIc)
-    * Typography - [YouTube](https://youtu.be/sByzHoiYFX0)
--->
 
 #### Websites
 

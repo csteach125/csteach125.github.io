@@ -126,6 +126,12 @@ and choose your favourite.
 
 #### Websites
 
+  * HTML5 Canvas examples
+    * [Canvas cycle](http://www.effectgames.com/demos/canvascycle/)
+    * [Curtain](https://codepen.io/dissimulate/pen/KrAwx)
+    * [Destroy things in a video](http://www.craftymind.com/factory/html5video/CanvasVideo.html)
+    * [Jelly](https://codepen.io/dissimulate/pen/dJgMaO)
+    * [Particles](https://codepen.io/eltonkamami/pen/ECrKd)
   * [The Unicode Consortium](http://www.unicode.org/)
   * [Unicode Information](http://www.alanwood.net/unicode/)
     * [Unicode examples](http://www.alanwood.net/unicode/unicode_samples.html)
@@ -140,12 +146,6 @@ and choose your favourite.
   * Apple - [UI Design Basics](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html)
   * Gnome - [Human Interface Guidelines](https://developer.gnome.org/)
   * Google - [Material Design](http://www.google.com/design/spec/material-design/introduction.html)
-  * HTML5 Canvas examples
-    * [Canvas cycle](http://www.effectgames.com/demos/canvascycle/)
-    * [Curtain](https://codepen.io/dissimulate/pen/KrAwx)
-    * [Destroy things in a video](http://www.craftymind.com/factory/html5video/CanvasVideo.html)
-    * [Jelly](https://codepen.io/dissimulate/pen/dJgMaO)
-    * [Particles](https://codepen.io/eltonkamami/pen/ECrKd)
 
 #### Extras
 

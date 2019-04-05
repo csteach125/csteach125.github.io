@@ -96,35 +96,21 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
 ##### Week 12
-* 6th April 2018
+* 5th April 2019
   * review this week's [notes and material](/notes), which includes the class notes
   * please review the [bibliography](/bibliography) material for this week
-  * please review today's source code examples,
+  * please review this week's source code examples
     * [source - Canvas](https://github.com/csteach125/source/tree/master/canvas)
   * please continue to prepare your idea and design for the final project demo and presentation
    * define and outline your initial project idea and concept
    * create initial sketches and paper designs
-  * please send the following details of your chosen project to Catherine on Slack
+  * please send the following details of your chosen project to the course's TA, Julia, on Slack
     * group members and names
     * initial project title
     * initial project idea
-* 4th April 2018
-  * review this week's [notes and material](/notes), which includes the class notes
-  * please review the [bibliography](/bibliography) material for this week
-  * please review today's source code examples,
-    * [source - Canvas](https://github.com/csteach125/source/tree/master/canvas)
-  * please begin to organise your project group for the final assessment
-    * 2 persons per group
-    * further details on the [coursework](https://csteach125.github.io/coursework/#assessment2) page and today's course notes
-
-Any questions, please let me know.
-
-Enjoy your week.
--->
-
-##### Week 12
 * 3rd April 2019
   * review this week's [notes and material](/notes), which includes the class notes
   * please review the [bibliography](/bibliography) material for this week

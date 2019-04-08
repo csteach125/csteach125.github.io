@@ -30,13 +30,11 @@ Course notes will be updated during the semester.
   * [Friday, 20th April](/assets/docs/2018/comp125-week14-fri.pdf)
   * [Wednesday, 18th April](/assets/docs/2018/comp125-week14-wed.pdf)
   * [Monday, 16th April](/assets/docs/2018/comp125-week14-mon.pdf)
+-->
 
 ##### Week 13
 
-  * [Friday, 13th April](/assets/docs/2018/comp125-week13-fri.pdf)
-  * [Wednesday, 11th April](/assets/docs/2018/comp125-week13-wed.pdf)
-  * [Monday, 9th April](/assets/docs/2018/comp125-week13-mon.pdf)
--->
+  * [Monday, 8th April](/assets/docs/2019/comp125-week13-mon.pdf)
 
 ##### Week 12
 

@@ -31,16 +31,16 @@ Course bibliography will be updated during the semester.
   * W3Schools - HTML5
     * [media elements](https://www.w3schools.com/html/html_media.asp)
     * [canvas element](https://www.w3schools.com/html/html5_canvas.asp)
-  * W3Schools - JS
-    * [event listener](https://www.w3schools.com/jsref/met_element_addeventlistener.asp)
-    * [Prototypes](https://www.w3schools.com/js/js_object_prototypes.asp)
+-->
 
 ##### Week 13
   * MDN - Canvas
     * [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
   * W3Schools - HTML5
     * [canvas element](https://www.w3schools.com/html/html5_canvas.asp)
--->
+  * W3Schools - JS
+    * [event listener](https://www.w3schools.com/jsref/met_element_addeventlistener.asp)
+    * [Prototypes](https://www.w3schools.com/js/js_object_prototypes.asp)
 
 ##### Week 12
   * W3Schools - HTML5

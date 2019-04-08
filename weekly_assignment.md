@@ -85,7 +85,14 @@ Enjoy your week.
     * [source - Canvas](https://github.com/csteach125/source/tree/master/canvas)
   * please ensure you have now sent your project details to the course TA, Catherine
   * please continue to design and develop your application for the final project demo and presentation
-* 9th April 2018
+
+Any questions, please let me know.
+
+Enjoy your week.
+-->
+
+##### Week 13
+* 8th April 2019
   * review this week's [notes and material](/notes), which includes the class notes
   * please review the [bibliography](/bibliography) material for this week
   * please review today's source code examples,
@@ -96,7 +103,6 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
--->
 
 ##### Week 12
 * 5th April 2019

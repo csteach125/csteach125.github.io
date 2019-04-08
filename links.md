@@ -39,6 +39,7 @@ Course links will be updated during the semester.
   * [MDN - What is JavaScript?](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
   * [MDN - JavaScript Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
   * [MDN - JavaScript data types and data structure](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
+  * [MDN - Prototype](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/prototype)
   * [MDN - Working with Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
   * [W3C Documentation - CSS](http://www.w3.org/Style/CSS/)
   * [W3C Documentation - CSS Flexible Box Layout Module 1](https://drafts.csswg.org/css-flexbox/)
@@ -62,13 +63,8 @@ Course links will be updated during the semester.
     * [functions](https://www.w3schools.com/js/js_functions.asp)
     * [Math Object](https://www.w3schools.com/js/js_math.asp)
     * [Objects and Properties](https://www.w3schools.com/js/js_properties.asp)
-    * [Strings](https://www.w3schools.com/js/js_strings.asp)
-
-<!--
-  * [MDN - Prototype](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/prototype)
-  * [W3Schools - JS](http://www.w3schools.com/js/default.asp)
     * [Prototypes](https://www.w3schools.com/js/js_object_prototypes.asp)
--->
+    * [Strings](https://www.w3schools.com/js/js_strings.asp)
 
 #### Frameworks & Libraries - CSS, JS... (a few examples)
 

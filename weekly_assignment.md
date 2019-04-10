@@ -92,6 +92,9 @@ Enjoy your week.
 -->
 
 ##### Week 13
+* 10th April 2019
+  * review this week's [notes and material](/notes), which includes the class notes
+  * please review the [bibliography](/bibliography) material for this week
 * 8th April 2019
   * review this week's [notes and material](/notes), which includes the class notes
   * please review the [bibliography](/bibliography) material for this week

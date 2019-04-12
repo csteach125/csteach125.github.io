@@ -34,6 +34,13 @@ Course notes will be updated during the semester.
 
 ##### Week 13
 
+  * [Friday, 12th April](/assets/docs/2019/comp125-week13-fri.pdf)
+    * extras - canvas
+      * [drawing](/assets/docs/extras/canvas-drawing.pdf)
+      * [interaction](/assets/docs/extras/canvas-interaction.pdf)
+    * extras - css
+      * [css grid](/assets/docs/extras/css-grid.pdf)
+      * [css grid - common layouts](/assets/docs/extras/css-grid-common-layouts.pdf)
   * [Wednesday, 10th April](/assets/docs/2019/comp125-week13-wed.pdf)
   * [Monday, 8th April](/assets/docs/2019/comp125-week13-mon.pdf)
 

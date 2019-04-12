@@ -92,6 +92,20 @@ Enjoy your week.
 -->
 
 ##### Week 13
+* 12th April 2019
+  * review this week's [notes and material](/notes), which includes the class notes and the following extras
+    * extras - canvas
+      * [drawing](/assets/docs/extras/canvas-drawing.pdf)
+      * [interaction](/assets/docs/extras/canvas-interaction.pdf)
+    * extras - css
+      * [css grid](/assets/docs/extras/css-grid.pdf)
+      * [css grid - common layouts](/assets/docs/extras/css-grid-common-layouts.pdf)
+  * please review the [bibliography](/bibliography) material for this week
+  * please review this week's source code examples,
+    * [source](https://github.com/csteach125/source/)
+  * please send your project details to me at the following email address,
+    * [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP 125 Final Project Detailsy)
+  * please continue to design and develop your application for the final project demo and presentation
 * 10th April 2019
   * review this week's [notes and material](/notes), which includes the class notes
   * please review the [bibliography](/bibliography) material for this week

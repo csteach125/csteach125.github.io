@@ -122,6 +122,10 @@ and choose your favourite.
 
 #### Websites
 
+  * A List Apart - [For People Who Make Websites](http://alistapart.com/)
+  * Apple - [UI Design Basics](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html)
+  * Gnome - [Human Interface Guidelines](https://developer.gnome.org/)
+  * Google - [Material Design](http://www.google.com/design/spec/material-design/introduction.html)
   * HTML5 Canvas examples
     * [Canvas cycle](http://www.effectgames.com/demos/canvascycle/)
     * [Curtain](https://codepen.io/dissimulate/pen/KrAwx)
@@ -136,13 +140,6 @@ and choose your favourite.
     * [Standards](http://www.w3.org/standards/)
   * [W3 Schools](http://www.w3schools.com/)
     * [HTML Colour Picker](http://www.w3schools.com/colors/colors_picker.asp)
-
-<!--
-  * A List Apart - [For People Who Make Websites](http://alistapart.com/)
-  * Apple - [UI Design Basics](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html)
-  * Gnome - [Human Interface Guidelines](https://developer.gnome.org/)
-  * Google - [Material Design](http://www.google.com/design/spec/material-design/introduction.html)
--->
 
 #### Extras
 

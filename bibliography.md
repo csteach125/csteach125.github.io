@@ -25,13 +25,13 @@ Course bibliography will be updated during the semester.
 <!--
 ##### Week 15
   * N/A
+-->
 
 ##### Week 14
   * [MDN - Prototype](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/prototype)
   * W3Schools - HTML5
     * [media elements](https://www.w3schools.com/html/html_media.asp)
     * [canvas element](https://www.w3schools.com/html/html5_canvas.asp)
--->
 
 ##### Week 13
   * MDN - Canvas

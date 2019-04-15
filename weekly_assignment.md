@@ -91,6 +91,19 @@ Any questions, please let me know.
 Enjoy your week.
 -->
 
+##### Week 14
+
+* 15th April 2019
+  * review this week's [notes and material](/notes), which includes the class notes
+  * please review the [bibliography](/bibliography) material for this week
+  * please review today's source code examples,
+    * [source](https://github.com/csteach125/source/)
+  * please continue to design and develop your application for the final project demo and presentation
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 ##### Week 13
 * 12th April 2019
   * review this week's [notes and material](/notes), which includes the class notes and the following extras

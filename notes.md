@@ -29,6 +29,9 @@ Course notes will be updated during the semester.
 
 ##### Week 14
 
+  * [Wednesday, 17th April](/assets/docs/2019/comp125-week14-wed.pdf)
+    * extras - Final Report Outline
+      * [Final Report Outline](/assets/docs/extras/comp125-final-report-outline-2019.pdf)
   * [Monday, 15th April](/assets/docs/2019/comp125-week14-mon.pdf)
 
 ##### Week 13

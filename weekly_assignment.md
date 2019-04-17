@@ -93,6 +93,14 @@ Enjoy your week.
 
 ##### Week 14
 
+* 17th April 2019
+  * review this week's [notes and material](/notes), which includes the class notes and the following extras
+    * extras - Final Report Outline
+      * [Final Report Outline](/assets/docs/extras/comp125-final-report-outline-2019.pdf)
+  * please review the [bibliography](/bibliography) material for this week
+  * please review today's source code examples,
+    * [source](https://github.com/csteach125/source/)
+  * please continue to design and develop your application for the final project demo and presentation
 * 15th April 2019
   * review this week's [notes and material](/notes), which includes the class notes
   * please review the [bibliography](/bibliography) material for this week

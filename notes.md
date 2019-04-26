@@ -20,12 +20,9 @@ This material will be updated on a weekly basis.
 
 Course notes will be updated during the semester.
 
-<!--
 ##### Week 15
 
-  * [Final Report Outline](/assets/docs/extras/comp125-final-report-outline-2018.pdf)
-
--->
+  * [Final Report Outline](/assets/docs/extras/comp125-final-report-outline-2019.pdf)
 
 ##### Week 14
 

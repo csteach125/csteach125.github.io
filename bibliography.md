@@ -22,10 +22,12 @@ There is no specific textbook for this course.
 
 Course bibliography will be updated during the semester.
 
-<!--
+
 ##### Week 15
-  * N/A
--->
+  * [MDN - Introduction to automated testing](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Automated_testing)
+  * [MDN - Publishing your website](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Publishing_your_website)
+  * [MDN - Strategies for carrying out testing](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Testing_strategies)
+  * [MDN - Tools & Testing](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing)
 
 ##### Week 14
   * [MDN - Prototype](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/prototype)

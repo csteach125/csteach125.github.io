@@ -91,6 +91,24 @@ Any questions, please let me know.
 Enjoy your week.
 -->
 
+##### Week 15
+* Please complete your group's final project report
+  * suggested report length approximately 5 to 10 pages (n.b. more than 10 pages is fine...)
+* Further details can be found in the following outline
+  * [Final Report Outline](/assets/docs/extras/comp125-final-report-outline-2019.pdf)
+* Report must be submitted by 1.25pm on Friday 3rd May 2019
+   * send a PDF copy to [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP125 - Final Report)
+* Please share with me a copy of your group's final code. This may include the following options,
+  * CodePen
+  * Zip file attached to a private message in Slack
+  * GitHub
+
+**NB:** Don't forget to add details of each member's contributions to the project in this report. If you prefer, you may submit an individual report for this contribution outline to [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP125 - Individual Final Report)
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 ##### Week 14
 
 * 17th April 2019
